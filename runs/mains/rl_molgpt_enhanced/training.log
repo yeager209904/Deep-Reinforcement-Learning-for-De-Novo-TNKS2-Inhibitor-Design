@@ -1,0 +1,5 @@
+2025-09-25 16:25:41,645 - INFO - Building vocabulary...
+2025-09-25 16:25:52,084 - INFO - Vocabulary size: 83
+2025-09-25 16:56:25,887 - INFO - Epoch 1: avg_reward=0.4208, validity=0.254, baseline=0.4203
+2025-09-25 17:18:16,734 - INFO - Vocabulary size: 83
+2025-09-25 17:41:43,011 - INFO - Epoch 1: avg_reward=0.4313, validity=0.257, baseline=0.4827

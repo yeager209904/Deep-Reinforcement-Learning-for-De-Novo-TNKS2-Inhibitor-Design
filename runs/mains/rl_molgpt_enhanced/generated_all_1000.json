@@ -1,0 +1,5002 @@
+[
+  {
+    "index": 0,
+    "raw_smiles": "[P@@][Li+1]Br.OCl.C=P\\O[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 1,
+    "raw_smiles": "[PH1]/[C@@H1]\\C\\Cl",
+    "canonical_smiles": "[PH][CH]CCl"
+  },
+  {
+    "index": 2,
+    "raw_smiles": "[N+1]\\[C@@H1]=CN[Si]/Br.[NH1]1[O+1]=S\\NCF.N[PH1]1F.[B-1]\\OB\\[C@H1]=[Se][135I].S[N@@]\\S(=C)\\O[N-1]F",
+    "canonical_smiles": "C=S([N]S)O[N-]F.N[PH](F)N[O+]=[SH]NCF.[B-]OBC=[Se][135I].[N+]C=CN[Si]Br"
+  },
+  {
+    "index": 3,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 4,
+    "raw_smiles": "Cl\\F.[N+1]I",
+    "canonical_smiles": "FCl.[N+]I"
+  },
+  {
+    "index": 5,
+    "raw_smiles": "[C@@]=[S+1]N/[C@@H1][BH2-1]N=S[Si]\\[N+1][PH1][C@@H1]/[N+1]\\S([C@@H1])(N)[C-1]\\F",
+    "canonical_smiles": "[C]=[S+]N[CH][BH2-]N=[SH][Si][N+]P[CH][N+]S([CH])(N)[C-]F"
+  },
+  {
+    "index": 6,
+    "raw_smiles": "Cl/I.P/[C@H1]/P=[S+1][C@H1]\\Br",
+    "canonical_smiles": "ClI.P[CH]P=[S+][CH]Br"
+  },
+  {
+    "index": 7,
+    "raw_smiles": "[S@@+1][11CH3].[S@@+1][C@].[NH1]\\F",
+    "canonical_smiles": "[11CH3][S+].[C][S+].[NH]F"
+  },
+  {
+    "index": 8,
+    "raw_smiles": "[Se]1.[C@@]\\[C@H1]=C/1[C-1]=O.[C@@H1]",
+    "canonical_smiles": "[CH].[C]/C=C(\\[Se])[C-]=O"
+  },
+  {
+    "index": 9,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 10,
+    "raw_smiles": "[N-1]=S(\\I)F",
+    "canonical_smiles": "[N-]=S(F)I"
+  },
+  {
+    "index": 11,
+    "raw_smiles": "FS.[C@@]/[C@H1]F",
+    "canonical_smiles": "FS.[C][CH]F"
+  },
+  {
+    "index": 12,
+    "raw_smiles": "Cl[C@H1]/O/O[N+1]F.[C@@H1]\\I.[C@@](=P)\\Cl",
+    "canonical_smiles": "F[N+]OO[CH]Cl.P=[C]Cl.[CH]I"
+  },
+  {
+    "index": 13,
+    "raw_smiles": "[N+1]=1[S-1][C-1][C@@][PH1]\\[N+1]\\[C@H1][N-1]S/O[Br-1]=1[N+1][C-1]/O[C@@H1][C@][N+1]\\[NH1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 14,
+    "raw_smiles": "N[Se][Se][N-1]",
+    "canonical_smiles": "[N-][Se][Se]N"
+  },
+  {
+    "index": 15,
+    "raw_smiles": "N[N+1]\\[C@@H1]/P/Br",
+    "canonical_smiles": "N[N+][CH]PBr"
+  },
+  {
+    "index": 16,
+    "raw_smiles": "[N+1]/C=C=[Se][I-1]\\C\\F",
+    "canonical_smiles": "[N+]C=C=[Se][I-]CF"
+  },
+  {
+    "index": 17,
+    "raw_smiles": "P=C=N[Se][Se]([Na+1])/[N+1](Br)[N-1]SP=[Se][C@@][Se]P[C-1]C=[P@+1]\\[C@H1]F.FO\\[C@@H1]\\Br.Cl/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 18,
+    "raw_smiles": "Br[Br-1]F.P([Br-1])/P/[C@@]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 19,
+    "raw_smiles": "[Br-1][I-1][S@@+1][Li+1][Cl+3][N+1]\\Cl.[Cl-1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 20,
+    "raw_smiles": "[O+1]([11CH3])/Cl.[C@@H1]#[N+1]",
+    "canonical_smiles": "C#[N+].[11CH3][O+]Cl"
+  },
+  {
+    "index": 21,
+    "raw_smiles": "[S@@+1]/S\\Br",
+    "canonical_smiles": "[S+]SBr"
+  },
+  {
+    "index": 22,
+    "raw_smiles": "[N+1]1/C\\[C@H1]/1[NH1][N-1][PH1]\\C=NI",
+    "canonical_smiles": "IN=CP[N-]N[C@@H]1C[N+]1"
+  },
+  {
+    "index": 23,
+    "raw_smiles": "[P@]/P[C@@H1]=[P@@]=[S+1].P[N+1]=[S+1][P@][11CH3]",
+    "canonical_smiles": "[11CH3][P][S+]=[N+]P.[P]PC=[P]=[S+]"
+  },
+  {
+    "index": 24,
+    "raw_smiles": "[O+1]\\O[P@@][S-1]\\O[Se][Br-1][B-1]=PF.[N+1]B/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 25,
+    "raw_smiles": "C1/[C@H1]\\[C@H1][C@@][P@]/1[C@]/P\\[N+1]/Br.Cl[C@@H1]/I.[P@@]NBr",
+    "canonical_smiles": "Br[N+]P[C][P@@]1[C][CH][CH]C1.Cl[CH]I.[P]NBr"
+  },
+  {
+    "index": 26,
+    "raw_smiles": "C\\Br",
+    "canonical_smiles": "CBr"
+  },
+  {
+    "index": 27,
+    "raw_smiles": "[K+1]P=C/F.[N+1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 28,
+    "raw_smiles": "Cl.[Se]/S#P/[C@@H1]\\[NH1][O-1].O[Cl-1]=[C@][C@H1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 29,
+    "raw_smiles": "O=P#[N+1].[Se]=[N+1][C@H1]\\Cl",
+    "canonical_smiles": "Cl[CH][N+]=[Se].[N+]#P=O"
+  },
+  {
+    "index": 30,
+    "raw_smiles": "[N-1]=[N-1]",
+    "canonical_smiles": "[N-]=[N-]"
+  },
+  {
+    "index": 31,
+    "raw_smiles": "C(\\[NH1])[Cl-1][Li+1][Cl+3][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 32,
+    "raw_smiles": "[Cl-1][N-1][S@@+1][Li+1]OI",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 33,
+    "raw_smiles": "N\\O[P@@]/SP/S=O",
+    "canonical_smiles": "NO[P]SP[SH]=O"
+  },
+  {
+    "index": 34,
+    "raw_smiles": "[P@@][11CH3]",
+    "canonical_smiles": "[11CH3][P]"
+  },
+  {
+    "index": 35,
+    "raw_smiles": "[S+1][P@+1]#[S+1][Br-1]Br.C/O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 36,
+    "raw_smiles": "[Cl-1].O=C[B-1][C@@]=P/Br",
+    "canonical_smiles": "O=C[B-][C]=PBr.[Cl-]"
+  },
+  {
+    "index": 37,
+    "raw_smiles": "Br[N-1][C@@H1][C@@]\\[C@H1]/[C@@H1].C[S+1]OI",
+    "canonical_smiles": "C[S+]OI.[CH][CH][C][CH][N-]Br"
+  },
+  {
+    "index": 38,
+    "raw_smiles": "Cl[N-1]/S=C[K+1]\\OB(Cl)/[C@@H1]C#N.[Cl+3]N[K+1]=NN=P(=N)F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 39,
+    "raw_smiles": "[N-1]1\\[NH1][BH2-1]/O[N-1]/[N+1]/1[N@@].BrC[N+1]/P#N.[NH1]N[11CH3]",
+    "canonical_smiles": "N#[PH][N+]CBr.[11CH3]N[NH].[N][N+]1[N-]N[BH2-]O[N-]1"
+  },
+  {
+    "index": 40,
+    "raw_smiles": "[P@@]\\O[Cl+3][C@@][Br-1][PH1]=C[S-1]O\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 41,
+    "raw_smiles": "[P@]/N=[Se]/[C@@H1]\\I",
+    "canonical_smiles": "[P]/N=[Se]/[CH]I"
+  },
+  {
+    "index": 42,
+    "raw_smiles": "F[N-1]/P#N",
+    "canonical_smiles": "N#[PH][N-]F"
+  },
+  {
+    "index": 43,
+    "raw_smiles": "Br/C[C@@].CN[Si]\\S[PH1][S+1](Cl)P\\I",
+    "canonical_smiles": "CN[Si]SP[S+](Cl)PI.[C]CBr"
+  },
+  {
+    "index": 44,
+    "raw_smiles": "F[C@][Li+1]=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 45,
+    "raw_smiles": "Cl.Br\\O",
+    "canonical_smiles": "Cl.OBr"
+  },
+  {
+    "index": 46,
+    "raw_smiles": "[BH2-1]/O\\S=S[C@@][Li+1][Cl+3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 47,
+    "raw_smiles": "[N+1][Li+1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 48,
+    "raw_smiles": "[O+1].C[Br-1]/I.[P@]=[N+1]=N/[C@@H1][C@@]([C@])[Cl-1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 49,
+    "raw_smiles": "[N+1].[P@+1][Li+1][N+1][Li+1]=S#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 50,
+    "raw_smiles": "[S-1]1/N[S@@+1]/[C@H1]([C@])[C@][S-1]/[N+1][C@@H1][Cl-1]\\[C@H1]/[C@@]Br.[C@H1]=[S+1]=[Se][2H].[Cl+3]\\N\\Cl.[N+1]/1.O[Si]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 51,
+    "raw_smiles": "[C@H1][N-1].[N-1]/F",
+    "canonical_smiles": "[CH][N-].[N-]F"
+  },
+  {
+    "index": 52,
+    "raw_smiles": "N[Na+1][Li+1]#N.[2H]/[C@H1][2H].[N+1]\\S/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 53,
+    "raw_smiles": "[I-1]",
+    "canonical_smiles": "[I-]"
+  },
+  {
+    "index": 54,
+    "raw_smiles": "[Br-1].[P@][C@@][Na+1]\\S[Se][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 55,
+    "raw_smiles": "F/[C@@]#C\\C[Br-1][PH1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 56,
+    "raw_smiles": "B[Li+1][NH1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 57,
+    "raw_smiles": "[2H][Se]S=N/OP=S\\S/[C@@H1][Si]#B.Cl[NH1]/P[O+1]=[BH2-1]",
+    "canonical_smiles": "[2H][Se][SH]=NOP=[SH]S[CH][Si]#B.[BH2-]=[O+]PNCl"
+  },
+  {
+    "index": 58,
+    "raw_smiles": "C[C@]/F.S[C@@H1]/O/O\\[NH1][C@@]=N[O+1][S-1]/N[11CH3].[C@H1]#N",
+    "canonical_smiles": "C#N.C[C]F.[11CH3]N[S-][O+]N=[C]NOO[CH]S"
+  },
+  {
+    "index": 59,
+    "raw_smiles": "[S@@+1]\\S/F",
+    "canonical_smiles": "FS[S+]"
+  },
+  {
+    "index": 60,
+    "raw_smiles": "O=[Se]N\\N[2H].[C@@]I",
+    "canonical_smiles": "[2H]NN[Se]=O.[C]I"
+  },
+  {
+    "index": 61,
+    "raw_smiles": "[S@@+1]=[S-1]/S[2H]",
+    "canonical_smiles": "[2H]S[S-]=[S+]"
+  },
+  {
+    "index": 62,
+    "raw_smiles": "Cl/[C@H1]=O.[P@+1][Br-1]\\[NH1].P[Cl-1]#C[C@@H1]\\[N+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 63,
+    "raw_smiles": "N[S@@+1]\\I",
+    "canonical_smiles": "N[S+]I"
+  },
+  {
+    "index": 64,
+    "raw_smiles": "CP[135I]",
+    "canonical_smiles": "CP[135I]"
+  },
+  {
+    "index": 65,
+    "raw_smiles": "N[C@H1][S@@+1]O/[C@@]#[S+1]=N\\N/I",
+    "canonical_smiles": "N[CH][S+]OC#[S+]=NNI"
+  },
+  {
+    "index": 66,
+    "raw_smiles": "[Cl+3][I-1][S@@+1]#[N+1]/P[P@][C@][C@@]/Cl",
+    "canonical_smiles": "Cl[C][C][P]P[N+]#[S+][I-][Cl+3]"
+  },
+  {
+    "index": 67,
+    "raw_smiles": "S=[N-1]",
+    "canonical_smiles": "[N-]=S"
+  },
+  {
+    "index": 68,
+    "raw_smiles": "S\\Br",
+    "canonical_smiles": "SBr"
+  },
+  {
+    "index": 69,
+    "raw_smiles": "[Se][N-1][Se]\\[NH1]N=S/I",
+    "canonical_smiles": "[Se][N-][Se]NN=[SH]I"
+  },
+  {
+    "index": 70,
+    "raw_smiles": "P=[Se][N-1]/OC\\[NH1][Br-1][C-1][Br-1]P[NH1][11CH3].[N+1][S+1][C@@H1]/I.[2H][Cl+3][S-1][C-1]=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 71,
+    "raw_smiles": "[C@H1].SI.P[PH1][N@@]\\[C@H1]/I.[P@@]I",
+    "canonical_smiles": "PP[N][CH]I.SI.[CH].[P]I"
+  },
+  {
+    "index": 72,
+    "raw_smiles": "[O+1]/F.C#[C@@]",
+    "canonical_smiles": "[C]#C.[O+]F"
+  },
+  {
+    "index": 73,
+    "raw_smiles": "N#N.I[C@@]F.[N+1][135I]",
+    "canonical_smiles": "F[C]I.N#N.[N+][135I]"
+  },
+  {
+    "index": 74,
+    "raw_smiles": "N(P)\\F",
+    "canonical_smiles": "FNP"
+  },
+  {
+    "index": 75,
+    "raw_smiles": "[Cl-1]Br.N[PH1]#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 76,
+    "raw_smiles": "[C@@H1].[Cl+3]P(\\[C@H1])[Se]S[C@]/F",
+    "canonical_smiles": "[CH].[CH]P([Cl+3])[Se]S[C]F"
+  },
+  {
+    "index": 77,
+    "raw_smiles": "[C@@]/OBr.[B-1]=O.[C@@]\\[NH1]B=[Se]([BH2-1]N[N-1]\\F)[I-1]\\[NH1][Cl+3][S@@+1]/S=NP#CC\\Br",
+    "canonical_smiles": "[B-]=O.[C]NB=[Se]([BH2-]N[N-]F)[I-]N[Cl+3][S+][SH]=N[PH]#CCBr.[C]OBr"
+  },
+  {
+    "index": 78,
+    "raw_smiles": "[C@@][P@](O)[BH2-1]S\\O/[C@H1]\\[N+1](\\[C@H1])[P@+1]\\Cl",
+    "canonical_smiles": "[C][P@](O)[BH2-]SO[CH][N+]([CH])[P+]Cl"
+  },
+  {
+    "index": 79,
+    "raw_smiles": "[C@@][Br-1][Br-1]/[C@H1]O[Cl+3]/N[Li+1][P@]\\[N+1]([Li+1])/Br.[S@@+1][O-1].[O+1]N\\Cl.P\\O[Se]=[Br-1][N@@][S@@+1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 80,
+    "raw_smiles": "FN/N\\S\\CP[S+1][S+1][C@@H1]B\\I",
+    "canonical_smiles": "FNNSCP[S+][S+][CH]BI"
+  },
+  {
+    "index": 81,
+    "raw_smiles": "C[P@@]([C@@H1])[Se]\\OS[O+1][N+1]Br.P\\S[135I].[N+1][PH1][11CH3]",
+    "canonical_smiles": "PS[135I].[11CH3]P[N+].[CH][P@](C)[Se]OS[O+][N+]Br"
+  },
+  {
+    "index": 82,
+    "raw_smiles": "Cl\\S[I-1]=C/I",
+    "canonical_smiles": "ClS[I-]=CI"
+  },
+  {
+    "index": 83,
+    "raw_smiles": "[Na+1][S+1]=[N-1].[Cl+3]\\Cl.[11CH3][S@@+1][P@@][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 84,
+    "raw_smiles": "Cl[11CH3]",
+    "canonical_smiles": "[11CH3]Cl"
+  },
+  {
+    "index": 85,
+    "raw_smiles": "[N-1]/[C@H1]O[Li+1][B-1][Si]=[N-1].[Se]\\[C@H1]\\O[N@@].[NH1]\\[N+1]=P=C/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 86,
+    "raw_smiles": "SPB=P\\C/Cl",
+    "canonical_smiles": "SPB=PCCl"
+  },
+  {
+    "index": 87,
+    "raw_smiles": "[C@@H1][Br-1]=C[BH2-1]O/S=[S+1]#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 88,
+    "raw_smiles": "B/NF.[PH1]=C[N-1]N.CC#N.[N+1]#N.SBr.P\\Br",
+    "canonical_smiles": "BNF.CC#N.N#[N+].N[N-]C=P.PBr.SBr"
+  },
+  {
+    "index": 89,
+    "raw_smiles": "B[BH2-1]/S[C@H1][K+1](/N)C=1[11CH3].PBr.P[Cl+3]\\Cl.[Cl-1][N+1]=O.[Br-1](S)/C[N-1]/O[P@]=1[P@+1][I-1](=C=2)[K+1]=2[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 90,
+    "raw_smiles": "[C@][Li+1][Br-1][Si][Li+1][C@@H1]NI.Cl[Na+1][Se][C@][Se]/S=O.S#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 91,
+    "raw_smiles": "CN(P)[C@@H1]F.[N+1]#[C@@H1]",
+    "canonical_smiles": "C#[N+].CN(P)[CH]F"
+  },
+  {
+    "index": 92,
+    "raw_smiles": "P/I.F[K+1][C@H1]\\I.[C@H1]/Br.C(=[N+1])[N+1][B-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 93,
+    "raw_smiles": "ON",
+    "canonical_smiles": "NO"
+  },
+  {
+    "index": 94,
+    "raw_smiles": "[135I]/C[Br-1][S@@+1]/F.[S+1]/P[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 95,
+    "raw_smiles": "[N+1]=C\\S[Br-1][11CH3].[NH1]\\I.P=[S+1][O+1]/[C@H1]/[C@@H1]/[C@H1]/[C@@H1]=NS[Cl-1][C@@H1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 96,
+    "raw_smiles": "[P@@]=[Se]#[N+1]S[C@@H1][BH2-1][Li+1][C@@H1][C@@H1]=C=[N+1][Cl+3]/Cl.[C@H1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 97,
+    "raw_smiles": "BrS[BH2-1][Se]#N.Br[N-1]\\C[Cl-1]B",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 98,
+    "raw_smiles": "C1=[Se][P@+1]=S\\C/1=[O+1]N[C@@H1]=[N+1][C@@]\\Br",
+    "canonical_smiles": "Br[C][N+]=CN[O+]=C1C=[Se][P+]=[SH]1"
+  },
+  {
+    "index": 99,
+    "raw_smiles": "[Se]/[C@H1][O+1]PN=[N-1]",
+    "canonical_smiles": "[N-]=NP[O+][CH][Se]"
+  },
+  {
+    "index": 100,
+    "raw_smiles": "[S@@+1]Br",
+    "canonical_smiles": "[S+]Br"
+  },
+  {
+    "index": 101,
+    "raw_smiles": "[N+1]\\I.C[P@][K+1]/Br.C[BH2-1]P[Cl+3][C@][N@@][S-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 102,
+    "raw_smiles": "C1[Br-1]2.[Br-1]/2[NH1][S+1][Se]/O\\1",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 103,
+    "raw_smiles": "[O+1]/N/[C@H1][11CH3]",
+    "canonical_smiles": "[11CH3][CH]N[O+]"
+  },
+  {
+    "index": 104,
+    "raw_smiles": "Cl/SN/O\\Cl.[11CH3]",
+    "canonical_smiles": "ClONSCl.[11CH3]"
+  },
+  {
+    "index": 105,
+    "raw_smiles": "[Se](\\S)[K+1]\\OCl.N[O+1][B-1][C@@H1]\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 106,
+    "raw_smiles": "[C@@][Br-1]O[Si][BH2-1]C\\C/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 107,
+    "raw_smiles": "P#[N+1]",
+    "canonical_smiles": "[N+]#P"
+  },
+  {
+    "index": 108,
+    "raw_smiles": "SS.N[N@@]/OO\\S[Si]=C=C[BH2-1]\\I",
+    "canonical_smiles": "N[N]OOS[Si]=C=C[BH2-]I.SS"
+  },
+  {
+    "index": 109,
+    "raw_smiles": "C/S([N@@])I.[Na+1]\\[NH1][O+1][Br-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 110,
+    "raw_smiles": "I.Br[Se][Se]Cl",
+    "canonical_smiles": "Cl[Se][Se]Br.I"
+  },
+  {
+    "index": 111,
+    "raw_smiles": "[S+1][BH2-1]/NCl",
+    "canonical_smiles": "[S+][BH2-]NCl"
+  },
+  {
+    "index": 112,
+    "raw_smiles": "Cl[P@@]#[N+1][P@@][Li+1]=[S+1][O+1][Br-1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 113,
+    "raw_smiles": "N[11CH3].[C@H1]/P[O+1]=C\\I",
+    "canonical_smiles": "[11CH3]N.[CH]P[O+]=CI"
+  },
+  {
+    "index": 114,
+    "raw_smiles": "[Br-1][Se][Na+1][S-1]/I.[N+1]/[C@@H1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 115,
+    "raw_smiles": "[C@H1]\\C=N[N+1][C@@H1]\\Br",
+    "canonical_smiles": "[CH]C=N[N+][CH]Br"
+  },
+  {
+    "index": 116,
+    "raw_smiles": "[C@@H1]=O",
+    "canonical_smiles": "[CH]=O"
+  },
+  {
+    "index": 117,
+    "raw_smiles": "B([Na+1])(C[BH2-1]\\[N+1]=[N-1])/[N+1]\\[N+1][S+1]/P[Li+1][Cl-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 118,
+    "raw_smiles": "O=S[P@]=C\\C=N[N+1]/[N+1]C(\\[NH1])[BH2-1][C-1]\\[C@H1][I-1]\\Cl.[C@H1]([Cl-1][Li+1]#[N+1][11CH3])[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 119,
+    "raw_smiles": "[BH2-1]/P\\N\\[C@H1][I-1]\\I",
+    "canonical_smiles": "[BH2-]PN[CH][I-]I"
+  },
+  {
+    "index": 120,
+    "raw_smiles": "[Br-1]\\I.C[Cl+3][C@@H1]Cl.[C@]=[Se][P@+1][S@@+1]/N[PH1]/S/[C@H1][C@H1]=[Se]/C/O[Se]\\OBr.F[135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 121,
+    "raw_smiles": "Cl/N/[C@@H1]N[Li+1]=[S+1]/S[I-1][C@@]=O.[O+1]([I-1])\\[C@H1](C)[N-1]/S[Na+1][N@@]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 122,
+    "raw_smiles": "[N-1][C@].[Li+1]\\N=N[Cl-1][N-1][Si]\\[N+1]=[N+1]/N\\[N+1][PH1]N[Cl-1][S+1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 123,
+    "raw_smiles": "N/S[Se]P[C@]([I-1])[C@H1]=C\\NB\\S(=SP=P[I-1][O+1])/C[N@@][C@@]\\N\\O[BH2-1][O-1].F[N@@][C@][NH1][N+1]I.S[I-1]=[Se]I",
+    "canonical_smiles": "F[N][C]N[N+]I.NS[Se]P[C]([I-])C=CNBS(C[N][C]NO[BH2-][O-])=[SH]P=P[I-][O+].S[I-]=[Se]I"
+  },
+  {
+    "index": 124,
+    "raw_smiles": "B[Cl-1]=SP=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 125,
+    "raw_smiles": "[N+1][Cl+3][C@]/[C@@H1][2H]",
+    "canonical_smiles": "[2H][CH][C][Cl+3][N+]"
+  },
+  {
+    "index": 126,
+    "raw_smiles": "[C@H1]/[C@@H1][Br-1][S-1][Br-1][C@H1]([BH2-1]1)C1I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 127,
+    "raw_smiles": "[P@][Se][11CH3].[N+1]=P/N[11CH3]",
+    "canonical_smiles": "[11CH3]NP=[N+].[11CH3][Se][P]"
+  },
+  {
+    "index": 128,
+    "raw_smiles": "P1/[C@H1][C@H1][N+1]=NP(\\S1/P#N)F.[C@@H1]C[Cl+3][C@@H1]=N[N+1]=P#[N+1]/S/[C@@H1]\\[C@H1]C[Se]\\F",
+    "canonical_smiles": "N#[PH][SH]1P[CH][CH][N+]=NP1F.[CH]C[Cl+3]C=N[N+]=P#[N+]S[CH][CH]C[Se]F"
+  },
+  {
+    "index": 129,
+    "raw_smiles": "[Br-1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 130,
+    "raw_smiles": "S=N\\Cl",
+    "canonical_smiles": "S=NCl"
+  },
+  {
+    "index": 131,
+    "raw_smiles": "[C@H1]/C[Br-1][P@@]\\O[P@@]S[C@H1][S+1][Li+1]I.[C@@]/[C@H1][O-1].[Se]/P",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 132,
+    "raw_smiles": "[S@@+1]=1/[C@@]Cl.S=N[Si]/CO\\[N+1][P@]/S/PN=[S+1]=1.C\\Br",
+    "canonical_smiles": "CBr.S=N[Si]CO[N+][P]SPN=[S+]=[S+][C]Cl"
+  },
+  {
+    "index": 133,
+    "raw_smiles": "B\\[NH1]\\N[Br-1][Se]([C@@])[C@@]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 134,
+    "raw_smiles": "C1[S@@+1][Br-1]\\C/1/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 135,
+    "raw_smiles": "[P@@][11CH3].[Cl-1]/C[S@@+1]/Cl.O.[C@@H1]=P[C@@H1]=[N+1]\\[N+1]=P/[C@H1][O-1].[C@H1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 136,
+    "raw_smiles": "P/[C@@H1]\\[NH1][Cl-1][C@](=N)\\[NH1][C@@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 137,
+    "raw_smiles": "[Br-1](=[Se])\\[C@H1]/[C@@H1][C@@][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 138,
+    "raw_smiles": "P[Na+1](P)\\I.[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 139,
+    "raw_smiles": "[Na+1][O-1].Br[N+1]\\[N+1][Si]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 140,
+    "raw_smiles": "N=[Se][Li+1][Li+1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 141,
+    "raw_smiles": "Cl.C[11CH3]",
+    "canonical_smiles": "C[11CH3].Cl"
+  },
+  {
+    "index": 142,
+    "raw_smiles": "[C@@][Si][Br-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 143,
+    "raw_smiles": "[C@]\\[C@H1]Br",
+    "canonical_smiles": "[C][CH]Br"
+  },
+  {
+    "index": 144,
+    "raw_smiles": "S[N+1][11CH3]",
+    "canonical_smiles": "[11CH3][N+]S"
+  },
+  {
+    "index": 145,
+    "raw_smiles": "[2H]",
+    "canonical_smiles": "[2H]"
+  },
+  {
+    "index": 146,
+    "raw_smiles": "N[BH2-1]/[N+1]/C\\I",
+    "canonical_smiles": "N[BH2-][N+]CI"
+  },
+  {
+    "index": 147,
+    "raw_smiles": "B[P@@]=S[Cl-1]/I.Br\\S[Br-1][Se]=N[Li+1][B-1][11CH3].[11CH3][C@H1]\\N[C-1]\\[N+1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 148,
+    "raw_smiles": "S[Cl-1]\\F.F[P@@]\\S#[N+1]P/[C@@]\\[NH1]\\I.[N-1][Li+1]N=[Se]=[K+1][Br-1][P@]=[S+1]C[Na+1][S@@+1]P/O/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 149,
+    "raw_smiles": "[S-1][P@+1]/S/O/[C@H1]/I",
+    "canonical_smiles": "[S-][P+]SO[CH]I"
+  },
+  {
+    "index": 150,
+    "raw_smiles": "PP.I[C@]/Br",
+    "canonical_smiles": "Br[C]I.PP"
+  },
+  {
+    "index": 151,
+    "raw_smiles": "F\\S[S+1]/F.Br/[C@@H1][S-1][C@H1]=O",
+    "canonical_smiles": "FS[S+]F.O=C[S-][CH]Br"
+  },
+  {
+    "index": 152,
+    "raw_smiles": "BrBr.[S-1]N=[Se]=N[11CH3]",
+    "canonical_smiles": "BrBr.[11CH3]N=[Se]=N[S-]"
+  },
+  {
+    "index": 153,
+    "raw_smiles": "N[Se]/F",
+    "canonical_smiles": "N[Se]F"
+  },
+  {
+    "index": 154,
+    "raw_smiles": "N1/[C@@H1]B=C1[Se]=O",
+    "canonical_smiles": "O=[Se]C1=B[CH]N1"
+  },
+  {
+    "index": 155,
+    "raw_smiles": "C\\N/Br.P=C=SNCl",
+    "canonical_smiles": "CNBr.P=C=[SH]NCl"
+  },
+  {
+    "index": 156,
+    "raw_smiles": "Cl\\S\\Cl.[N+1]/[C@@H1]=SCl",
+    "canonical_smiles": "ClSCl.[N+]C=[SH]Cl"
+  },
+  {
+    "index": 157,
+    "raw_smiles": "NBr",
+    "canonical_smiles": "NBr"
+  },
+  {
+    "index": 158,
+    "raw_smiles": "B=[Se][N-1]\\Br.PB[Br-1][I-1][C@@]=P[Cl-1][B-1]P.[O-1][Cl-1]=S\\[NH1]/[C@@H1]=N[Cl+3]\\[C@@H1]=[Se]S[K+1]#N.[N+1][C-1]B[S@@+1]C=CP=C\\I.OBr.N/O[Si]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 159,
+    "raw_smiles": "[N+1][P@]/[C@H1]P[BH2-1]SF",
+    "canonical_smiles": "[N+][P][CH]P[BH2-]SF"
+  },
+  {
+    "index": 160,
+    "raw_smiles": "[C@@]=C=PP\\OO[P@+1][Na+1]/[C@@H1]/S\\C=[S+1]=C[P@@]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 161,
+    "raw_smiles": "[C@@H1]C=S#C[P@](C)(P)Br",
+    "canonical_smiles": "[CH]C=[SH]#C[P@](C)(P)Br"
+  },
+  {
+    "index": 162,
+    "raw_smiles": "[C@@]1\\S/[C@H1]=P.[Cl+3]#C/1",
+    "canonical_smiles": "P=CS[C]C#[Cl+3]"
+  },
+  {
+    "index": 163,
+    "raw_smiles": "Br/C[P@@]\\S/C[C@H1]Cl.[C@@H1]=P\\F",
+    "canonical_smiles": "Cl[CH]CS[P]CBr.[CH]=PF"
+  },
+  {
+    "index": 164,
+    "raw_smiles": "[C@@H1]=P[P@@]\\[NH1][C@@H1]=[C@]",
+    "canonical_smiles": "[C]=CN[P]P=[CH]"
+  },
+  {
+    "index": 165,
+    "raw_smiles": "[O+1]=C/C[S@@+1][Li+1][Na+1][Se][C@][I-1]\\[NH1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 166,
+    "raw_smiles": "[Se]/N=O.[Cl-1][Cl-1]Br.[2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 167,
+    "raw_smiles": "[Se]=[S+1]P\\O/[C@H1][11CH3].[Br-1]\\S=O.[BH2-1]/[N+1]\\[C@@H1]C/[N+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 168,
+    "raw_smiles": "C/C=O",
+    "canonical_smiles": "CC=O"
+  },
+  {
+    "index": 169,
+    "raw_smiles": "[C@H1][O+1][Br-1][Li+1][C@@]=P[C@@]=O.P\\[C@@H1]=[C@@H1]OF",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 170,
+    "raw_smiles": "NO/S([Li+1])=[N+1][C@@H1][BH2-1]P\\[C@H1]/[N+1]/O\\[C@H1][Br-1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 171,
+    "raw_smiles": "[PH1]/P[11CH3]",
+    "canonical_smiles": "[11CH3]P[PH]"
+  },
+  {
+    "index": 172,
+    "raw_smiles": "S=NP\\S[Se]B=N.[N+1]O[S@@+1]\\N=[Li+1][Cl-1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 173,
+    "raw_smiles": "[O+1]=S[C@@]",
+    "canonical_smiles": "[C][SH]=[O+]"
+  },
+  {
+    "index": 174,
+    "raw_smiles": "N[Se]/[C@@H1]P",
+    "canonical_smiles": "N[Se][CH]P"
+  },
+  {
+    "index": 175,
+    "raw_smiles": "C=S[Br-1]#C\\C=P/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 176,
+    "raw_smiles": "C[Se][P@]/[C@@H1]=N\\[C@H1]",
+    "canonical_smiles": "[CH]/N=C\\[P][Se]C"
+  },
+  {
+    "index": 177,
+    "raw_smiles": "[N+1][P@@]\\S([Cl-1])[C@@][P@]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 178,
+    "raw_smiles": "[PH1]/N/S=[Li+1]=O.O\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 179,
+    "raw_smiles": "F[O+1]F.[C@@H1]/Br.[C@@H1]\\N",
+    "canonical_smiles": "F[O+]F.[CH]Br.[CH]N"
+  },
+  {
+    "index": 180,
+    "raw_smiles": "B[N+1]/S\\Cl.F\\Br.Cl[11CH3].FS=S=P/F",
+    "canonical_smiles": "B[N+]SCl.FBr.FP=S=[SH]F.[11CH3]Cl"
+  },
+  {
+    "index": 181,
+    "raw_smiles": "P.Br/O[Se]=[C@@]",
+    "canonical_smiles": "P.[C]=[Se]OBr"
+  },
+  {
+    "index": 182,
+    "raw_smiles": "[C@]=1([P@]=P[Cl+3]OP/P[C@]\\[NH1][S-1]=1)[Si][NH1][C@@]C[O+1]/Br.[BH2-1]\\[C@@H1]/[C@@H1]N.N",
+    "canonical_smiles": "Br[O+]C[C]N[Si]C1=[S-]N[C]PPO[Cl+3]P=P1.N.[BH2-][CH][CH]N"
+  },
+  {
+    "index": 183,
+    "raw_smiles": "[Cl-1].C=C[P@+1]Cl",
+    "canonical_smiles": "C=C[P+]Cl.[Cl-]"
+  },
+  {
+    "index": 184,
+    "raw_smiles": "[C@H1][Si]I.[11CH3]P[S+1][B-1][C@@H1]C[P@@][BH2-1][O-1].F",
+    "canonical_smiles": "F.[11CH3]P[S+][B-][CH]C[P][BH2-][O-].[CH][Si]I"
+  },
+  {
+    "index": 185,
+    "raw_smiles": "S[Na+1]([135I])[Cl+3]/[C@H1]=P[P@@]\\I.[Cl-1]=[Se][P@+1]/I.I[N@@]\\[C@@H1][Br-1][C-1][11CH3].N[P@@][Li+1]\\F.[Cl-1][K+1][P@@][P@@]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 186,
+    "raw_smiles": "[Br-1]\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 187,
+    "raw_smiles": "B#C/S/Cl.[N+1][C-1]\\C/[N+1][C@H1]S[C-1]Cl.[N+1][PH1]\\NNCl",
+    "canonical_smiles": "B#CSCl.[N+]PNNCl.[N+][C-]C[N+][CH]S[C-]Cl"
+  },
+  {
+    "index": 188,
+    "raw_smiles": "FS([B-1][B-1][2H])[C@@H1]1.[Na+1]1/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 189,
+    "raw_smiles": "FN[PH1]#C[Li+1][Na+1][Na+1]=N/[C@@H1]=[N+1]\\[C@@H1][N-1][C@@H1][Si][C-1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 190,
+    "raw_smiles": "P(/C)=[P@+1]F",
+    "canonical_smiles": "CP=[P+]F"
+  },
+  {
+    "index": 191,
+    "raw_smiles": "[PH1]/[C@@H1][P@@]SO/P/S",
+    "canonical_smiles": "[PH][CH][P]SOPS"
+  },
+  {
+    "index": 192,
+    "raw_smiles": "S=[P@@]Cl",
+    "canonical_smiles": "S=PCl"
+  },
+  {
+    "index": 193,
+    "raw_smiles": "[Se]I.[N+1][2H].Cl[NH1]/Cl",
+    "canonical_smiles": "ClNCl.[2H][N+].[Se]I"
+  },
+  {
+    "index": 194,
+    "raw_smiles": "N",
+    "canonical_smiles": "N"
+  },
+  {
+    "index": 195,
+    "raw_smiles": "F\\N[Se][Br-1].[N+1]=[S+1]PCl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 196,
+    "raw_smiles": "FS[Se]P=[Se][Li+1]\\N[Cl-1]N/Br.[S+1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 197,
+    "raw_smiles": "Cl\\[C@@H1][Si](\\I)#[N+1]P#[Na+1]=[C@@H1]N[C@][I-1][N+1]([C@@][C@]I)\\N\\S#[N+1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 198,
+    "raw_smiles": "[S@@+1][11CH3].ClN=[N-1]",
+    "canonical_smiles": "[11CH3][S+].[N-]=NCl"
+  },
+  {
+    "index": 199,
+    "raw_smiles": "Cl\\OP[Se]I",
+    "canonical_smiles": "ClOP[Se]I"
+  },
+  {
+    "index": 200,
+    "raw_smiles": "P/N[C@H1]=[N-1].N=N[N-1]",
+    "canonical_smiles": "[N-]=CNP.[N-]N=N"
+  },
+  {
+    "index": 201,
+    "raw_smiles": "[P@@]=1(/[C@@])[B-1][S@@+1][P@+1]=1\\N/S/N([I-1])C/P\\C[O-1].N=C[C@@][P@]N[135I].[N+1]/SBr",
+    "canonical_smiles": "N=C[C][P]N[135I].[C][P]1=[P+](NSN([I-])CPC[O-])[S+][B-]1.[N+]SBr"
+  },
+  {
+    "index": 202,
+    "raw_smiles": "[P@][Na+1][Cl-1][N-1][N+1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 203,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 204,
+    "raw_smiles": "F[Cl+3][Br-1][P@@][P@]=[C@@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 205,
+    "raw_smiles": "C[11CH3]",
+    "canonical_smiles": "C[11CH3]"
+  },
+  {
+    "index": 206,
+    "raw_smiles": "S1[S-1][Cl-1]\\[C@H1][NH1]P\\I.B\\[C@H1]=[N+1]/S/1\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 207,
+    "raw_smiles": "[C-1]=C/[C@@H1][N@@]/S[P@@][Cl+3]#N.[O-1][11CH3]",
+    "canonical_smiles": "[11CH3][O-].[C-]=C[CH][N]S[P][Cl+3]#N"
+  },
+  {
+    "index": 208,
+    "raw_smiles": "[S@@+1]1S([O-1])[C@H1][Cl+3][Br-1]\\[NH1]I.[Br-1]=[N+1]N/1[S+1]\\[NH1]N/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 209,
+    "raw_smiles": "Cl/[C@@][C@@][C@][11CH3]",
+    "canonical_smiles": "[11CH3][C][C][C]Cl"
+  },
+  {
+    "index": 210,
+    "raw_smiles": "O[K+1][Na+1]S[11CH3].[PH1][Cl-1][Se]/[C@@H1]\\[NH1][Br-1][S-1]\\[NH1]P[O+1]=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 211,
+    "raw_smiles": "[P@]/C\\F",
+    "canonical_smiles": "FC[P]"
+  },
+  {
+    "index": 212,
+    "raw_smiles": "[Cl-1][P@][P@@][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 213,
+    "raw_smiles": "P[S-1]/S[O-1].P#[N+1]\\F.[O-1]C\\Br.P[135I].[P@+1][B-1]",
+    "canonical_smiles": "F[N+]#P.P[135I].[B-][P+].[O-]CBr.[O-]S[S-]P"
+  },
+  {
+    "index": 214,
+    "raw_smiles": "[P@][C-1]/C\\N/Cl.N\\C=S\\I.[Br-1]#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 215,
+    "raw_smiles": "C1P=N[Br-1]P[N+1]=[S+1]\\[N+1][C@@]=[C@@]\\Br.[C@]/[C@H1]/1[C@@H1]\\I.P\\Br.[PH1]Cl.[BH2-1]BBr",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 216,
+    "raw_smiles": "[C@]\\S[S-1][Cl-1][P@@]/N[Br-1]=O.[S+1]/S/[C@@H1]([N+1])[N-1]/[C@@H1]=C[C@H1][N-1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 217,
+    "raw_smiles": "[C@H1]/O/[C@@](C)N[BH2-1][11CH3]",
+    "canonical_smiles": "[CH]O[C](C)N[BH2-][11CH3]"
+  },
+  {
+    "index": 218,
+    "raw_smiles": "N[P@]=PBF",
+    "canonical_smiles": "NP=PBF"
+  },
+  {
+    "index": 219,
+    "raw_smiles": "[C@H1]1\\[C@H1][N-1][C@H1]([O+1])[Se]\\[NH1]/1.O[2H]",
+    "canonical_smiles": "[2H]O.[O+][C@H]1[N-][CH][CH]N[Se]1"
+  },
+  {
+    "index": 220,
+    "raw_smiles": "N=S[N+1][S-1]=[N-1]",
+    "canonical_smiles": "[N-]=[S-][N+][SH]=N"
+  },
+  {
+    "index": 221,
+    "raw_smiles": "[P@@]/Br.[C@@H1]\\N=[Se]=[Se]#N",
+    "canonical_smiles": "[CH]N=[Se]=[Se]#N.[P]Br"
+  },
+  {
+    "index": 222,
+    "raw_smiles": "N=[S+1]1P#C[S@@+1][Li+1][C@]\\[C@@H1]N\\[NH1][Cl-1]F.I\\[NH1]/S1C[BH2-1][P@@]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 223,
+    "raw_smiles": "[N+1][Br-1][C@]=P",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 224,
+    "raw_smiles": "[N+1]Cl",
+    "canonical_smiles": "[N+]Cl"
+  },
+  {
+    "index": 225,
+    "raw_smiles": "F[11CH3]",
+    "canonical_smiles": "[11CH3]F"
+  },
+  {
+    "index": 226,
+    "raw_smiles": "[Br-1]\\[C@H1]=[C@@H1][N+1][S@@+1]=[Cl+3]/[C@@H1]=[Br-1][B-1]=[Se][I-1]\\[N+1]\\[N+1]\\Cl.[K+1]/N[K+1]\\[C@H1][N-1][N+1]S(/[N+1])=N[O+1][K+1]#[C@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 227,
+    "raw_smiles": "[N-1]=[Se]\\I",
+    "canonical_smiles": "[N-]=[Se]I"
+  },
+  {
+    "index": 228,
+    "raw_smiles": "S[N+1]/N\\Br.[C@]\\I.[N+1]F",
+    "canonical_smiles": "S[N+]NBr.[C]I.[N+]F"
+  },
+  {
+    "index": 229,
+    "raw_smiles": "O\\S[I-1][Br-1]\\S[N@@][O-1].S[B-1][Si]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 230,
+    "raw_smiles": "O[BH2-1]P/P[C@@H1]",
+    "canonical_smiles": "[CH]PP[BH2-]O"
+  },
+  {
+    "index": 231,
+    "raw_smiles": "Br[C-1]/P=O.C=S[C@@]\\O[Si]=C[11CH3]",
+    "canonical_smiles": "C=[SH][C]O[Si]=C[11CH3].O=P[C-]Br"
+  },
+  {
+    "index": 232,
+    "raw_smiles": "Cl[P@].[NH1][N@@]=N[S+1][11CH3].[Cl+3]\\C=NP[N+1]\\CF.P[BH2-1]C[P@]=C\\Cl",
+    "canonical_smiles": "FC[N+]PN=C[Cl+3].P[BH2-]CP=CCl.[11CH3][S+]N=N[NH].[P]Cl"
+  },
+  {
+    "index": 233,
+    "raw_smiles": "N=C\\O\\I",
+    "canonical_smiles": "N=COI"
+  },
+  {
+    "index": 234,
+    "raw_smiles": "[C@@]([P@@])C([2H])[Se][P@][C@@]",
+    "canonical_smiles": "[2H]C([C][P])[Se][P][C]"
+  },
+  {
+    "index": 235,
+    "raw_smiles": "[S+1][P@@]=[Se]N/N[P@]=[S+1]=[Se][Se]\\F",
+    "canonical_smiles": "F[Se][Se]=[S+]=PNN[Se]=P[S+]"
+  },
+  {
+    "index": 236,
+    "raw_smiles": "O[Na+1]/S(\\[C@H1])O\\SI",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 237,
+    "raw_smiles": "Br[BH2-1][Se]=C=S=[Se]=[N+1]I.O[S+1]C\\[C@H1]=[N+1]",
+    "canonical_smiles": "Br[BH2-][Se]=C=S=[Se]=[N+]I.[N+]=CC[S+]O"
+  },
+  {
+    "index": 238,
+    "raw_smiles": "[O+1]/P[Cl-1]/C#C/[C@H1]1[N+1]F.[N+1]P=[Se][O+1]/N\\C=[C@@]\\N=[S+1]1[Br-1][P@@]S[S+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 239,
+    "raw_smiles": "[O+1][Cl-1]\\S=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 240,
+    "raw_smiles": "[N+1][135I].[N+1]/I.[C@]/N[N@@]F",
+    "canonical_smiles": "[C]N[N]F.[N+]I.[N+][135I]"
+  },
+  {
+    "index": 241,
+    "raw_smiles": "[PH1]I.C/P[Se][C@]=[N+1][11CH3].C\\C/S[S-1][O+1][11CH3].F[Se]=S=NS/[C@@][Cl-1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 242,
+    "raw_smiles": "[C@@H1]",
+    "canonical_smiles": "[CH]"
+  },
+  {
+    "index": 243,
+    "raw_smiles": "[Br-1][C@H1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 244,
+    "raw_smiles": "P1([C-1](/O)[Br-1]/C#C1)[Se](=C)(C)F.F[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 245,
+    "raw_smiles": "[N-1][Li+1].IP=[Se][Cl+3]\\Cl.[N+1][N+1]\\[C@@H1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 246,
+    "raw_smiles": "N[11CH3].[C@@]\\[C@H1][11CH3].I/F.[S+1]/[N+1]\\S[C@@]",
+    "canonical_smiles": "FI.[11CH3]N.[C]S[N+][S+].[C][CH][11CH3]"
+  },
+  {
+    "index": 247,
+    "raw_smiles": "C[11CH3].C[2H]",
+    "canonical_smiles": "C[11CH3].[2H]C"
+  },
+  {
+    "index": 248,
+    "raw_smiles": "NI",
+    "canonical_smiles": "NI"
+  },
+  {
+    "index": 249,
+    "raw_smiles": "[Br-1]/[C@H1][P@@]P#[N+1][C-1][Na+1]/[C@@H1]=[N-1].C\\N[Li+1][C@@H1][K+1][Cl+3][C@@](\\[C@@H1])/N[N-1]/[C@@H1][Cl+3]#P",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 250,
+    "raw_smiles": "N[Br-1]/N[PH1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 251,
+    "raw_smiles": "[PH1]/[C@@H1]\\CCC/I.[C@]",
+    "canonical_smiles": "[C].[PH][CH]CCCI"
+  },
+  {
+    "index": 252,
+    "raw_smiles": "[B-1]/Br.[S-1][Li+1][NH1]S\\[N+1]#[Cl+3]/N([BH2-1])[C@@]#P",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 253,
+    "raw_smiles": "[P@@].[K+1]=N[S+1]\\[C@H1][NH1][N+1]=[N-1].C[2H].PF",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 254,
+    "raw_smiles": "O\\I",
+    "canonical_smiles": "OI"
+  },
+  {
+    "index": 255,
+    "raw_smiles": "[Se]/C\\[C@H1][C@][11CH3]",
+    "canonical_smiles": "[11CH3][C][CH]C[Se]"
+  },
+  {
+    "index": 256,
+    "raw_smiles": "P[S-1][Br-1]([P@])[N+1]/[C@@H1]=[N+1][BH2-1]/[C@H1]O\\Br.[C@@H1]/[C@@H1][O+1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 257,
+    "raw_smiles": "C[Cl-1][B-1][Na+1][Si]\\[N+1]=P.[C@]/CB/[C@H1]\\[C@@H1]=N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 258,
+    "raw_smiles": "[Br-1](/OC/C[Br-1](C)/I)#N.N=C/[C@@][11CH3].[N-1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 259,
+    "raw_smiles": "P=[N+1]S[S-1][BH2-1].N/[C@H1]Cl",
+    "canonical_smiles": "N[CH]Cl.[BH2-][S-]S[N+]=P"
+  },
+  {
+    "index": 260,
+    "raw_smiles": "N/Cl",
+    "canonical_smiles": "NCl"
+  },
+  {
+    "index": 261,
+    "raw_smiles": "Cl.[S+1]/[C@@H1]\\[C@@H1][135I]",
+    "canonical_smiles": "Cl.[S+][CH][CH][135I]"
+  },
+  {
+    "index": 262,
+    "raw_smiles": "[C@]\\CBr.NPI.[PH1]#[C@H1]",
+    "canonical_smiles": "C#[PH].NPI.[C]CBr"
+  },
+  {
+    "index": 263,
+    "raw_smiles": "[N+1]=[Se][Li+1]/S\\N[P@@]/N/[C@@H1]\\N[N+1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 264,
+    "raw_smiles": "[11CH3]/SP\\F",
+    "canonical_smiles": "[11CH3]SPF"
+  },
+  {
+    "index": 265,
+    "raw_smiles": "C[I-1].[Br-1]#[N+1]\\I.[Br-1]/[C@H1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 266,
+    "raw_smiles": "Cl/O[Br-1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 267,
+    "raw_smiles": "[C@@]1/OO[Si]/S1",
+    "canonical_smiles": "[C]1OO[Si]S1"
+  },
+  {
+    "index": 268,
+    "raw_smiles": "ClS=C/[C@@]\\[N+1]=[N-1].[O-1][C@][P@@]ON[O+1]=S([S+1])[K+1](/Cl)C\\[C@H1]\\S/C=P/[C@@][N@@][2H].C[K+1]S/C\\I.[P@][Cl-1]=C[P@+1][NH1]/P[C@@H1][P@]=CI",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 269,
+    "raw_smiles": "P[Cl-1]\\[C@H1][C@][C-1][Si]/P\\[C@@H1][Br-1](\\I)[N@@]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 270,
+    "raw_smiles": "[C@H1]#N",
+    "canonical_smiles": "C#N"
+  },
+  {
+    "index": 271,
+    "raw_smiles": "O[N+1]\\I",
+    "canonical_smiles": "O[N+]I"
+  },
+  {
+    "index": 272,
+    "raw_smiles": "N[N-1]\\[N+1][Br-1][P@+1]\\[NH1][C@@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 273,
+    "raw_smiles": "Br[BH2-1][C@@H1]/O[C@H1][BH2-1]/I.[N-1]\\I",
+    "canonical_smiles": "Br[BH2-][CH]O[CH][BH2-]I.[N-]I"
+  },
+  {
+    "index": 274,
+    "raw_smiles": "[K+1]12N[BH2-1]/[C@H1]\\Cl.[C@H1][NH1][S+1]F.[Se]\\[C@H1][Cl-1]/1(/F)[B-1]/2/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 275,
+    "raw_smiles": "[P@@][BH2-1]/N[P@+1][BH2-1]P=N[Br-1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 276,
+    "raw_smiles": "[C@@H1](/C)/[C@@][C@H1]/ON\\[NH1]/[C@H1][N@@]=N/[C@H1]",
+    "canonical_smiles": "[CH]N=N[CH]NNO[CH][C][CH]C"
+  },
+  {
+    "index": 277,
+    "raw_smiles": "[C@@][PH1]=SP[K+1]P[S+1]=N/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 278,
+    "raw_smiles": "PI",
+    "canonical_smiles": "PI"
+  },
+  {
+    "index": 279,
+    "raw_smiles": "F[PH1]/P[N+1].[N+1]C#N.[C@][Se]N[11CH3]",
+    "canonical_smiles": "N#C[N+].[C][Se]N[11CH3].[N+]PPF"
+  },
+  {
+    "index": 280,
+    "raw_smiles": "P[C@H1][NH1]",
+    "canonical_smiles": "[NH][CH]P"
+  },
+  {
+    "index": 281,
+    "raw_smiles": "S\\Br",
+    "canonical_smiles": "SBr"
+  },
+  {
+    "index": 282,
+    "raw_smiles": "[11CH3].N[P@]I",
+    "canonical_smiles": "N[P]I.[11CH3]"
+  },
+  {
+    "index": 283,
+    "raw_smiles": "[C@]1=2[Se]#[N+1][Br-1][S@@+1]/1=P=N[S-1]Br.[N+1]\\[NH1]N[C@]P=2[C@]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 284,
+    "raw_smiles": "B/C#P/[C@@]=N\\N[Se][C@][Li+1]Cl.[N+1]ON",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 285,
+    "raw_smiles": "[Se]/[C@@]\\[C@H1]=C=N/N/P/C[P@@]\\[N+1]\\[N+1]/Br",
+    "canonical_smiles": "[Se][C]C=C=NNPC[P][N+][N+]Br"
+  },
+  {
+    "index": 286,
+    "raw_smiles": "[N+1][NH1]N[135I]",
+    "canonical_smiles": "[N+]NN[135I]"
+  },
+  {
+    "index": 287,
+    "raw_smiles": "O[Si]=[Se](\\Cl)\\[NH1]/Br",
+    "canonical_smiles": "O[Si]=[Se](Cl)NBr"
+  },
+  {
+    "index": 288,
+    "raw_smiles": "[C@H1][S@@+1][P@]=S/O",
+    "canonical_smiles": "[CH][S+]P=[SH]O"
+  },
+  {
+    "index": 289,
+    "raw_smiles": "[P@@][S-1][N+1]/N/S(\\[C@H1])/[C@@H1]F.[I-1](=C)I",
+    "canonical_smiles": "C=[I-]I.[CH][SH]([CH]F)N[N+][S-][P]"
+  },
+  {
+    "index": 290,
+    "raw_smiles": "Cl/C\\[C@H1][Se]Cl",
+    "canonical_smiles": "ClC[CH][Se]Cl"
+  },
+  {
+    "index": 291,
+    "raw_smiles": "O[BH2-1]C[Na+1][Br-1][NH1]\\[NH1]P\\[C@@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 292,
+    "raw_smiles": "[S+1]=[O+1]P=S/I",
+    "canonical_smiles": "[S+]=[O+]P=[SH]I"
+  },
+  {
+    "index": 293,
+    "raw_smiles": "ClI.C[N+1]F",
+    "canonical_smiles": "C[N+]F.ClI"
+  },
+  {
+    "index": 294,
+    "raw_smiles": "[P@]N[BH2-1][S@@+1]#C\\[C@H1][Cl+3]/I",
+    "canonical_smiles": "[P]N[BH2-][S+]#C[CH][Cl+3]I"
+  },
+  {
+    "index": 295,
+    "raw_smiles": "N=S[Br-1]/S[Na+1][C@@H1][P@+1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 296,
+    "raw_smiles": "S[N+1][11CH3]",
+    "canonical_smiles": "[11CH3][N+]S"
+  },
+  {
+    "index": 297,
+    "raw_smiles": "[N+1]#[N+1][135I]",
+    "canonical_smiles": "[N+]#[N+][135I]"
+  },
+  {
+    "index": 298,
+    "raw_smiles": "ClCN=C[O-1]",
+    "canonical_smiles": "[O-]C=NCCl"
+  },
+  {
+    "index": 299,
+    "raw_smiles": "[Cl-1][N@@]=O.C\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 300,
+    "raw_smiles": "[S@@+1]1[C@@H1]=C[C@@][N@@]\\[C@H1][S+1]=[S+1]/[C@@H1]=S[C@@H1][BH2-1][P@@][BH2-1]1",
+    "canonical_smiles": "[BH2-]1[CH][SH]=C[S+]=[S+][CH][N][C]C=C[S+][BH2-][P]1"
+  },
+  {
+    "index": 301,
+    "raw_smiles": "[11CH3].[P@]/N\\S\\Cl",
+    "canonical_smiles": "[11CH3].[P]NSCl"
+  },
+  {
+    "index": 302,
+    "raw_smiles": "B[C@][11CH3].[Cl+3]/N\\N/Br.[N+1][Na+1]P\\ON.[C@@H1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 303,
+    "raw_smiles": "N([C@@])[S+1]/[C@H1]\\OB[Se]=CCl",
+    "canonical_smiles": "[C]N[S+][CH]OB[Se]=CCl"
+  },
+  {
+    "index": 304,
+    "raw_smiles": "F/[C@@][S@@+1][PH1][Li+1]/S([Cl-1])\\[C@H1]/I.[NH1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 305,
+    "raw_smiles": "F/Cl.C[Se]=[C@@H1][C@@H1]\\I.[N+1]=O",
+    "canonical_smiles": "C[Se]=C[CH]I.FCl.[N+]=O"
+  },
+  {
+    "index": 306,
+    "raw_smiles": "[S@@+1][Li+1]\\S[C@][Br-1]=P[O+1]=[N+1]PBr.O[N+1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 307,
+    "raw_smiles": "[I-1]1([Li+1])[Li+1]C/1[S@@+1][N-1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 308,
+    "raw_smiles": "N=[Se]/F.C[P@@]/C[N+1]\\N.[11CH3]\\N",
+    "canonical_smiles": "C[P]C[N+]N.N=[Se]F.[11CH3]N"
+  },
+  {
+    "index": 309,
+    "raw_smiles": "P1.P[PH1]=S[C@@][N+1]/Br.[NH1][C@@H1]Br.[P@]=S#C\\OCl.O(B\\Cl)/[C@@H1]/1\\[C@H1]/C[Cl+3].[Br-1][B-1]Br.C\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 310,
+    "raw_smiles": "ClN/O\\S\\I",
+    "canonical_smiles": "ClNOSI"
+  },
+  {
+    "index": 311,
+    "raw_smiles": "IP[P@]/S\\[C@H1][BH2-1]\\[C@H1]=P.F\\S[N+1][C@@H1][2H]",
+    "canonical_smiles": "P=C[BH2-][CH]S[P]PI.[2H][CH][N+]SF"
+  },
+  {
+    "index": 312,
+    "raw_smiles": "[Se]/O\\S=[C@@H1]\\I",
+    "canonical_smiles": "[Se]O/[SH]=C/I"
+  },
+  {
+    "index": 313,
+    "raw_smiles": "P/Br.P/Br",
+    "canonical_smiles": "PBr.PBr"
+  },
+  {
+    "index": 314,
+    "raw_smiles": "P[11CH3].[C@@H1]\\N[I-1]([2H])[N-1]/S#N",
+    "canonical_smiles": "[11CH3]P.[2H][I-]([N-]S#N)N[CH]"
+  },
+  {
+    "index": 315,
+    "raw_smiles": "[S+1]1[Cl-1][C@@]/1[C@@][Br-1][2H].N/O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 316,
+    "raw_smiles": "[C@@H1]\\Br.[C@@]#[S+1]=O",
+    "canonical_smiles": "[CH]Br.[C]#[S+]=O"
+  },
+  {
+    "index": 317,
+    "raw_smiles": "[N+1]/C\\[C@H1]=[N+1][135I]",
+    "canonical_smiles": "[N+]CC=[N+][135I]"
+  },
+  {
+    "index": 318,
+    "raw_smiles": "N\\F.O[B-1]\\Br.[Cl+3]/Cl",
+    "canonical_smiles": "Cl[Cl+3].NF.O[B-]Br"
+  },
+  {
+    "index": 319,
+    "raw_smiles": "[Se]/O[P@][S@@+1][Br-1][S@@+1][B-1]\\S#[N+1][P@]=[N+1]\\[C@@H1]([N@@])[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 320,
+    "raw_smiles": "[C@@H1]\\ON=[C@@][S+1]F.S\\S/O[N+1]I",
+    "canonical_smiles": "SSO[N+]I.[CH]ON=[C][S+]F"
+  },
+  {
+    "index": 321,
+    "raw_smiles": "Cl[Cl-1]#[P@+1][C@@H1]P1\\[C@@H1]\\Cl.[B-1][Cl+3]I.[C@@][Cl+3][C@]=[N+1]N\\N[Br-1]=[N+1]\\[NH1]/S[C@H1]1[C-1]\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 322,
+    "raw_smiles": "C[C-1]=[N-1]",
+    "canonical_smiles": "C[C-]=[N-]"
+  },
+  {
+    "index": 323,
+    "raw_smiles": "Cl\\S[C@H1]Br",
+    "canonical_smiles": "ClS[CH]Br"
+  },
+  {
+    "index": 324,
+    "raw_smiles": "N=[S+1][O-1]",
+    "canonical_smiles": "N=[S+][O-]"
+  },
+  {
+    "index": 325,
+    "raw_smiles": "O[B-1]=SI",
+    "canonical_smiles": "O[B-]=[SH]I"
+  },
+  {
+    "index": 326,
+    "raw_smiles": "N=[B-1][P@@]\\[NH1][Br-1]=[P@+1]([C@@H1][N@@][Si][C@H1]\\[NH1][PH1][135I])[C@]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 327,
+    "raw_smiles": "[11CH3][Se][PH1][S+1]PP[Se][I-1]=C=[N+1][S@@+1][BH2-1]O[S-1][Li+1][S+1]=N[C@][Si][P@]=[S+1][N-1][N+1][PH1]=B/F.[C@H1]N(N)N[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 328,
+    "raw_smiles": "I.[Cl-1]\\Cl.[C@@]=[Se]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 329,
+    "raw_smiles": "O=[PH1]=O.[PH1]P[N@@]=O.[P@@]\\[N+1][BH2-1][Cl-1][Br-1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 330,
+    "raw_smiles": "[C@H1]/C/S\\S\\Cl.[Se]=[N-1]",
+    "canonical_smiles": "[CH]CSSCl.[N-]=[Se]"
+  },
+  {
+    "index": 331,
+    "raw_smiles": "[C@H1]NBr.[S-1]Br",
+    "canonical_smiles": "[CH]NBr.[S-]Br"
+  },
+  {
+    "index": 332,
+    "raw_smiles": "Cl\\Br.[C@@H1]#[N+1]/[C@@H1][C@@]=P=[Se]\\[N+1][N-1]/F",
+    "canonical_smiles": "C#[N+][CH][C]=[PH]=[Se][N+][N-]F.ClBr"
+  },
+  {
+    "index": 333,
+    "raw_smiles": "P/Cl.[N+1][Cl-1]\\[C@H1]/NN\\[C@H1]/[C@@H1][Na+1]C[PH1][Li+1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 334,
+    "raw_smiles": "[N-1][S-1][C@][C@][N-1]F",
+    "canonical_smiles": "[N-][S-][C][C][N-]F"
+  },
+  {
+    "index": 335,
+    "raw_smiles": "Cl\\C.[Br-1]\\[NH1]/F.[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 336,
+    "raw_smiles": "N=NS=NC[B-1][11CH3].N([11CH3])\\F",
+    "canonical_smiles": "[11CH3]NF.[11CH3][B-]CN=[SH]N=N"
+  },
+  {
+    "index": 337,
+    "raw_smiles": "[C@@H1]N[C@@]/Br",
+    "canonical_smiles": "[CH]N[C]Br"
+  },
+  {
+    "index": 338,
+    "raw_smiles": "[C@H1]\\N[N-1]N\\[C@H1][Cl-1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 339,
+    "raw_smiles": "[Se][S@@+1]/[C@H1]([O-1])\\N\\S(\\Cl)Cl.P[Br-1]\\[C@H1][Se][C@]/P/[C@@H1]=NC[P@+1]/F.Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 340,
+    "raw_smiles": "Br",
+    "canonical_smiles": "Br"
+  },
+  {
+    "index": 341,
+    "raw_smiles": "[C@@][N+1][P@@]\\[NH1]/C=S/P.[C@H1]\\Cl",
+    "canonical_smiles": "[CH]Cl.[C][N+][P]N/C=[SH]/P"
+  },
+  {
+    "index": 342,
+    "raw_smiles": "N[C-1][P@@]=C([P@])C[S@@+1]/C[C-1]=[C@@H1][Na+1].O[C@@H1]\\O\\[NH1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 343,
+    "raw_smiles": "N[C@@H1]",
+    "canonical_smiles": "[CH]N"
+  },
+  {
+    "index": 344,
+    "raw_smiles": "[N+1][Li+1]/Cl.Br[C@@]/N\\[N+1][C@@H1](O)I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 345,
+    "raw_smiles": "B([PH1])[135I].[NH1]\\Cl.[11CH3][C@@]B\\O[Cl+3]#N",
+    "canonical_smiles": "[11CH3][C]BO[Cl+3]#N.[NH]Cl.[PH]B[135I]"
+  },
+  {
+    "index": 346,
+    "raw_smiles": "[P@@].[C@@][Li+1]/S/N/Br.N=[Se]=[N@@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 347,
+    "raw_smiles": "[P@@]=1[S@@+1][BH2-1]\\[NH1][S+1]\\[C@H1][N+1]/C=N.[Br-1]=[Se][Na+1]=[N+1]/S=1[Br-1]/S[C@][Li+1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 348,
+    "raw_smiles": "[C@H1]1\\F.[Li+1]/1(/[C@@]I)[Cl+3]#[Li+1][C@@]=[Se]=P/PO[Cl-1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 349,
+    "raw_smiles": "F\\[C@@H1]",
+    "canonical_smiles": "[CH]F"
+  },
+  {
+    "index": 350,
+    "raw_smiles": "[P@]=[S+1](/[C@@H1])[N+1][N+1]=C/P/I",
+    "canonical_smiles": "[CH][S+](=[P])[N+][N+]=CPI"
+  },
+  {
+    "index": 351,
+    "raw_smiles": "[Br-1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 352,
+    "raw_smiles": "[Br-1]\\[NH1].NN[N@@]([Si]F)[Se]NN=[N+1][N@@]/NCl.[C@H1]P/P[P@]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 353,
+    "raw_smiles": "S[Se][I-1][C@H1]=S[11CH3]",
+    "canonical_smiles": "[11CH3][SH]=C[I-][Se]S"
+  },
+  {
+    "index": 354,
+    "raw_smiles": "Cl[Na+1].[P@+1]=SB\\[N+1]/S[B-1]/[C@@H1][O-1].F[C@@]\\[C@@H1]/C",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 355,
+    "raw_smiles": "Cl[S+1]/[C@@]/N\\[N+1]=P=NI",
+    "canonical_smiles": "Cl[S+][C]N[N+]=[PH]=NI"
+  },
+  {
+    "index": 356,
+    "raw_smiles": "O/[C@H1]=O",
+    "canonical_smiles": "O=CO"
+  },
+  {
+    "index": 357,
+    "raw_smiles": "[C@H1][C-1]=[N+1]=C=[C@]/O[C@]Cl",
+    "canonical_smiles": "[CH][C-]=[N+]=C=[C]O[C]Cl"
+  },
+  {
+    "index": 358,
+    "raw_smiles": "C.[N+1]/I",
+    "canonical_smiles": "C.[N+]I"
+  },
+  {
+    "index": 359,
+    "raw_smiles": "Cl[PH1].[C@@H1]/I",
+    "canonical_smiles": "[CH]I.[PH]Cl"
+  },
+  {
+    "index": 360,
+    "raw_smiles": "[C@@][Cl-1][S-1]=[BH2-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 361,
+    "raw_smiles": "Cl[N+1][N-1][N+1]/[C@H1][C@@H1]=NC=[N+1]/N[C@]/P/Cl",
+    "canonical_smiles": "Cl[N+][N-][N+][CH]C=NC=[N+]N[C]PCl"
+  },
+  {
+    "index": 362,
+    "raw_smiles": "O[S-1](=[Se]=S(Br)[Cl+3][Cl-1][S-1][BH2-1][P@][N@@])I.[C@@H1]=[C@H1]/N=P\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 363,
+    "raw_smiles": "[N+1][Cl+3]F",
+    "canonical_smiles": "[N+][Cl+3]F"
+  },
+  {
+    "index": 364,
+    "raw_smiles": "[C@@]1[BH2-1]/S=P/1[N-1]O[P@@]=N\\[C@@H1]=[N+1]\\S",
+    "canonical_smiles": "S/[N+]=C/N=PO[N-][PH]1=[SH][BH2-][C]1"
+  },
+  {
+    "index": 365,
+    "raw_smiles": "[Cl-1][Cl+3][P@][C@@][Br-1]=[C@@H1]/O.O[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 366,
+    "raw_smiles": "N/S[Br-1][C@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 367,
+    "raw_smiles": "S[Na+1]\\S[S+1]=NN[S-1]\\[C@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 368,
+    "raw_smiles": "[Se][C@H1]\\Br.[Br-1]\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 369,
+    "raw_smiles": "[C@H1]=[N-1]",
+    "canonical_smiles": "[CH]=[N-]"
+  },
+  {
+    "index": 370,
+    "raw_smiles": "[K+1]=1[Na+1]\\I.[N-1][K+1][Na+1][P@@]([135I])PC[Li+1]=1[PH1][B-1]/[C@@H1]\\Cl.[Na+1]\\C/[N+1]=[Se][Li+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 371,
+    "raw_smiles": "[K+1]12=P[BH2-1]P=N1.P/[C@H1]=C[PH1]NCl.C[Cl-1]\\I.N/2[C@@][S+1]C[P@@]/N[Si]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 372,
+    "raw_smiles": "[O+1][BH2-1]/S.I/I.[C@@H1]\\[C@H1][Se]/P=[Se]([BH2-1])[Li+1]N[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 373,
+    "raw_smiles": "[BH2-1][Br-1]1.[N+1]/1I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 374,
+    "raw_smiles": "B#N",
+    "canonical_smiles": "B#N"
+  },
+  {
+    "index": 375,
+    "raw_smiles": "[S-1]I",
+    "canonical_smiles": "[S-]I"
+  },
+  {
+    "index": 376,
+    "raw_smiles": "N([S@@+1])[11CH3]",
+    "canonical_smiles": "[11CH3]N[S+]"
+  },
+  {
+    "index": 377,
+    "raw_smiles": "O[Cl-1]P[N+1][N+1][Li+1][Li+1][P@][Cl+3]/Br.N[S-1][Cl+3]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 378,
+    "raw_smiles": "F[N-1][P@@][S@@+1]/SN/[C@@H1][S@@+1][Na+1]P[K+1][B-1][BH2-1]\\[NH1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 379,
+    "raw_smiles": "[S+1]=[N-1]",
+    "canonical_smiles": "[N-]=[S+]"
+  },
+  {
+    "index": 380,
+    "raw_smiles": "[S@@+1][BH2-1][C@@][Br-1]/C/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 381,
+    "raw_smiles": "[2H]\\[N+1][Cl-1][S+1]\\[NH1][S+1]/[C@@H1].[C@]/F.ClN=C/[C@H1][N-1]/S=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 382,
+    "raw_smiles": "F[C-1]=S(O)[P@@][O+1][PH1]#[N+1]",
+    "canonical_smiles": "[N+]#[PH][O+][P]S(O)=[C-]F"
+  },
+  {
+    "index": 383,
+    "raw_smiles": "P/P\\[C@@H1]P[11CH3]",
+    "canonical_smiles": "[11CH3]P[CH]PP"
+  },
+  {
+    "index": 384,
+    "raw_smiles": "[135I][Se]=NC[C-1]\\[N+1][P@@]\\[C@H1]S=S=N/N=S[2H].[C@][C@@]",
+    "canonical_smiles": "[2H][SH]=NN=S=[SH][CH][P][N+][C-]CN=[Se][135I].[C][C]"
+  },
+  {
+    "index": 385,
+    "raw_smiles": "S\\N=N[C@@].F[B-1][B-1]#N.BrC",
+    "canonical_smiles": "CBr.N#[B-][B-]F.[C]N=NS"
+  },
+  {
+    "index": 386,
+    "raw_smiles": "B\\Cl",
+    "canonical_smiles": "BCl"
+  },
+  {
+    "index": 387,
+    "raw_smiles": "C\\[NH1]/P\\Cl.[N+1][C-1][135I].[C@]B[PH1]O/[C@H1][O-1]",
+    "canonical_smiles": "CNPCl.[C]BPO[CH][O-].[N+][C-][135I]"
+  },
+  {
+    "index": 388,
+    "raw_smiles": "[S-1][Li+1]N\\S/I.[Se][2H].[C@@](=[N+1])[K+1]/F.C#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 389,
+    "raw_smiles": "[Se]=[Se]/S(/C)P[B-1]=[Br-1](\\C)\\Cl.BrSO[B-1]\\F.[2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 390,
+    "raw_smiles": "Cl[P@]/[C@@]/N\\N=O",
+    "canonical_smiles": "O=NN[C][P]Cl"
+  },
+  {
+    "index": 391,
+    "raw_smiles": "[I-1][C@]#[N+1]1.[Cl+3]1[Cl+3][Se]\\C=O.I[Cl+3]/S[Se][S@@+1][P@+1][Na+1]/S=[N+1][Li+1][S@@+1].[N+1]P\\[C@H1]=NPBr",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 392,
+    "raw_smiles": "P[N+1][P@+1][BH2-1]/F.C/F",
+    "canonical_smiles": "CF.F[BH2-][P+][N+]P"
+  },
+  {
+    "index": 393,
+    "raw_smiles": "S=[S+1]=O",
+    "canonical_smiles": "O=[S+]=S"
+  },
+  {
+    "index": 394,
+    "raw_smiles": "O=S[C@@]/OP/O\\Cl.[11CH3]C[Br-1]=N[BH2-1][N@@](F)\\[C@H1][N+1]([K+1])O[C@]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 395,
+    "raw_smiles": "[Se]C\\[C@H1]\\S/[C@H1]",
+    "canonical_smiles": "[CH]S[CH]C[Se]"
+  },
+  {
+    "index": 396,
+    "raw_smiles": "[N+1]=S/Br",
+    "canonical_smiles": "[N+]=[SH]Br"
+  },
+  {
+    "index": 397,
+    "raw_smiles": "O([C@][P@]/C[P@@]C\\NI)/S/[C@@H1][N+1][N@@]=O",
+    "canonical_smiles": "O=N[N+][CH]SO[C][P]C[P]CNI"
+  },
+  {
+    "index": 398,
+    "raw_smiles": "[Br-1][11CH3].S=N\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 399,
+    "raw_smiles": "Cl\\S1.S/1[C@@][135I].N[135I]",
+    "canonical_smiles": "ClSS[C][135I].N[135I]"
+  },
+  {
+    "index": 400,
+    "raw_smiles": "[C@@]/[C@@]/N\\S=[N-1].O.I/P#CP\\C/[N+1]\\C=O",
+    "canonical_smiles": "O.O=C[N+]CPC#[PH]I.[C][C]N[SH]=[N-]"
+  },
+  {
+    "index": 401,
+    "raw_smiles": "F[BH2-1][N+1][P@+1]=C/[C@@]=N\\[C@@H1][Cl+3]\\[N+1][S-1]=N[BH2-1]\\[C@H1]",
+    "canonical_smiles": "[CH][BH2-]N=[S-][N+][Cl+3][CH]/N=[C]\\C=[P+][N+][BH2-]F"
+  },
+  {
+    "index": 402,
+    "raw_smiles": "N=[N-1].[Se]=[N-1]",
+    "canonical_smiles": "[N-]=N.[N-]=[Se]"
+  },
+  {
+    "index": 403,
+    "raw_smiles": "S/I",
+    "canonical_smiles": "SI"
+  },
+  {
+    "index": 404,
+    "raw_smiles": "N\\O[P@@]NS/CCl",
+    "canonical_smiles": "NO[P]NSCCl"
+  },
+  {
+    "index": 405,
+    "raw_smiles": "N[K+1][S@@+1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 406,
+    "raw_smiles": "O1[Se]N[P@+1]1NI.[NH1]PI",
+    "canonical_smiles": "IN[P@@+]1N[Se]O1.[NH]PI"
+  },
+  {
+    "index": 407,
+    "raw_smiles": "[C@@H1]=O.[Na+1]",
+    "canonical_smiles": "[CH]=O.[Na+]"
+  },
+  {
+    "index": 408,
+    "raw_smiles": "[Cl+3]I.Br[S+1]",
+    "canonical_smiles": "[Cl+3]I.[S+]Br"
+  },
+  {
+    "index": 409,
+    "raw_smiles": "CB=O",
+    "canonical_smiles": "CB=O"
+  },
+  {
+    "index": 410,
+    "raw_smiles": "P(/F)[C@@]=[S+1]/[C@H1]C[P@][2H]",
+    "canonical_smiles": "[2H][P]C[CH][S+]=[C]PF"
+  },
+  {
+    "index": 411,
+    "raw_smiles": "[N+1]=[Se]\\C/O/S\\N.[K+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 412,
+    "raw_smiles": "C=P[Br-1].[P@][PH1]#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 413,
+    "raw_smiles": "[C@@][2H].O[C@H1][I-1]=[Se][O-1].[Cl-1]/Cl.C=NP\\N([BH2-1])[C@@]#[Cl+3][Cl-1]=C=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 414,
+    "raw_smiles": "[C@H1]1[NH1]N/1P.Br/P#[N+1]/N/I",
+    "canonical_smiles": "Br[PH]#[N+]NI.PN1[CH]N1"
+  },
+  {
+    "index": 415,
+    "raw_smiles": "N=PI.[K+1]P[NH1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 416,
+    "raw_smiles": "N\\SI",
+    "canonical_smiles": "NSI"
+  },
+  {
+    "index": 417,
+    "raw_smiles": "S=1/P[O+1]NN[K+1]=[S+1][N-1]/Cl.[S@@+1][S-1][C@@H1][P@+1]C=1",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 418,
+    "raw_smiles": "[O+1][Br-1]=C[O+1][N+1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 419,
+    "raw_smiles": "Br[Se]/[N+1]=P[2H].I[S+1]/Cl",
+    "canonical_smiles": "Cl[S+]I.[2H]P=[N+][Se]Br"
+  },
+  {
+    "index": 420,
+    "raw_smiles": "F[B-1]/[C@@H1]O[Br-1][S@@+1]O[Cl-1]=[Se]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 421,
+    "raw_smiles": "O\\[N+1](=O)/I.[S-1][PH1][C@@]/N=N\\O\\Br",
+    "canonical_smiles": "O=[N+](O)I.[S-]P[C]/N=N\\OBr"
+  },
+  {
+    "index": 422,
+    "raw_smiles": "OF.[Li+1]=[N+1]/C.[C@@H1]P[Cl-1]/I.C=[N+1]\\N[Se][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 423,
+    "raw_smiles": "[C@@]\\Br",
+    "canonical_smiles": "[C]Br"
+  },
+  {
+    "index": 424,
+    "raw_smiles": "F[Cl+3]\\I.C=[Se][C-1]Br",
+    "canonical_smiles": "C=[Se][C-]Br.F[Cl+3]I"
+  },
+  {
+    "index": 425,
+    "raw_smiles": "O\\ON/[C@H1]\\F",
+    "canonical_smiles": "OON[CH]F"
+  },
+  {
+    "index": 426,
+    "raw_smiles": "P1\\[C@@H1]=C[B-1]/1[O+1][P@+1][P@@][P@@][BH2-1]N([O-1])O\\S/C/Br.O/S([C@@H1]2)\\[C@@H1]2N\\S[C@][S-1]",
+    "canonical_smiles": "O[SH]1[CH][C@H]1NS[C][S-].[O-]N([BH2-][P][P][P+][O+][B-]1C=CP1)OSCBr"
+  },
+  {
+    "index": 427,
+    "raw_smiles": "C=C[O+1][N+1][I-1]=S[I-1]\\Cl.Cl/[C@@H1]P[C@]B[C@@H1]=C[C@]=[N@@][Se]/[N+1][11CH3]",
+    "canonical_smiles": "C=C[O+][N+][I-]=[SH][I-]Cl.[11CH3][N+][Se]N=[C]C=CB[C]P[CH]Cl"
+  },
+  {
+    "index": 428,
+    "raw_smiles": "[C@@][Br-1]N=P#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 429,
+    "raw_smiles": "[O+1]=1[P@@][O+1]/C/OP=1[11CH3].C/F.P[P@][N+1]#N",
+    "canonical_smiles": "CF.N#[N+][P]P.[11CH3][PH]1=[O+][P][O+]CO1"
+  },
+  {
+    "index": 430,
+    "raw_smiles": "B\\I",
+    "canonical_smiles": "BI"
+  },
+  {
+    "index": 431,
+    "raw_smiles": "S(/S)/F",
+    "canonical_smiles": "FSS"
+  },
+  {
+    "index": 432,
+    "raw_smiles": "C/S=[Se][135I]",
+    "canonical_smiles": "C[SH]=[Se][135I]"
+  },
+  {
+    "index": 433,
+    "raw_smiles": "C\\[N+1]F",
+    "canonical_smiles": "C[N+]F"
+  },
+  {
+    "index": 434,
+    "raw_smiles": "[Se](\\Cl)/C/O/F",
+    "canonical_smiles": "FOC[Se]Cl"
+  },
+  {
+    "index": 435,
+    "raw_smiles": "N#N",
+    "canonical_smiles": "N#N"
+  },
+  {
+    "index": 436,
+    "raw_smiles": "C[Cl-1]NCl.S/[C@@H1]/[C@H1].[PH1]\\Cl.P=C=S[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 437,
+    "raw_smiles": "Cl.F/F",
+    "canonical_smiles": "Cl.FF"
+  },
+  {
+    "index": 438,
+    "raw_smiles": "NBr.[N-1]/[C@H1][Se]/O/P[Se]\\[C@H1]/[C@@H1][N+1]/I.O[135I].[Br-1]/[C@H1]O\\CCl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 439,
+    "raw_smiles": "[P@]([B-1])[C@@H1][11CH3].[B-1][B-1][PH1][C@]/[N+1]=[S+1][O-1].Cl[Se](C)\\[N+1]\\O[P@]\\NS[K+1]#CC",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 440,
+    "raw_smiles": "[11CH3]\\N[Br-1][Li+1]I.[C@@]#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 441,
+    "raw_smiles": "[S@@+1]1\\OP=P/1[C@@H1]\\Cl",
+    "canonical_smiles": "Cl[CH][PH]1=PO[S+]1"
+  },
+  {
+    "index": 442,
+    "raw_smiles": "[P@@][P@@]/[C@@][Cl+3][135I].[C@@]/N[PH1]#CS.[N-1]",
+    "canonical_smiles": "[C]N[PH]#CS.[N-].[P][P][C][Cl+3][135I]"
+  },
+  {
+    "index": 443,
+    "raw_smiles": "[Se][I-1]=O",
+    "canonical_smiles": "O=[I-][Se]"
+  },
+  {
+    "index": 444,
+    "raw_smiles": "[11CH3]\\O\\I.S[S-1]",
+    "canonical_smiles": "[11CH3]OI.[S-]S"
+  },
+  {
+    "index": 445,
+    "raw_smiles": "[Cl-1][O-1].S\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 446,
+    "raw_smiles": "Cl/I",
+    "canonical_smiles": "ClI"
+  },
+  {
+    "index": 447,
+    "raw_smiles": "N\\Cl.F[N-1][Cl+3]#C[C@@]/P[S@@+1]/S[BH2-1][N-1][C@]\\[N+1][Cl-1]=CF",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 448,
+    "raw_smiles": "PC/[C@@H1].F[2H].C(=O)I",
+    "canonical_smiles": "O=CI.[2H]F.[CH]CP"
+  },
+  {
+    "index": 449,
+    "raw_smiles": "O[C@@][Br-1]O\\O[BH2-1]S[P@]=N\\F.Cl\\S([C@@H1]=C)=[N+1]=N/[C@@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 450,
+    "raw_smiles": "NCl",
+    "canonical_smiles": "NCl"
+  },
+  {
+    "index": 451,
+    "raw_smiles": "[N-1]\\[N+1][Se]N[PH1]",
+    "canonical_smiles": "[N-][N+][Se]N[PH]"
+  },
+  {
+    "index": 452,
+    "raw_smiles": "NSCl.N[S+1]\\S[I-1]Cl.[C@][S-1]#CP[11CH3]",
+    "canonical_smiles": "NSCl.N[S+]S[I-]Cl.[C][S-]#CP[11CH3]"
+  },
+  {
+    "index": 453,
+    "raw_smiles": "[C@@]1/S/O[C@@][Br-1][P@@]/1/P[P@]=S\\N\\[NH1]/N[S-1][N+1]\\[C@@H1]/CBr.[Se]Cl.[N+1][11CH3].[Se]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 454,
+    "raw_smiles": "[S-1][P@@]/S\\S[Se]=PC\\[C@H1]P[C@][B-1]",
+    "canonical_smiles": "[B-][C]P[CH]CP=[Se]SS[P][S-]"
+  },
+  {
+    "index": 455,
+    "raw_smiles": "N\\Cl",
+    "canonical_smiles": "NCl"
+  },
+  {
+    "index": 456,
+    "raw_smiles": "O=[P@@][C@@][N+1]/[C@H1]\\SBr.[C@@H1]\\Br.[Cl-1][PH1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 457,
+    "raw_smiles": "[S@@+1]\\I.[BH2-1]/N[P@][S@@+1]=[C@@]/Br",
+    "canonical_smiles": "[BH2-]N[P][S+]=[C]Br.[S+]I"
+  },
+  {
+    "index": 458,
+    "raw_smiles": "P1\\OS1([S+1])O\\F",
+    "canonical_smiles": "FOS1([S+])OP1"
+  },
+  {
+    "index": 459,
+    "raw_smiles": "O",
+    "canonical_smiles": "O"
+  },
+  {
+    "index": 460,
+    "raw_smiles": "[Se]P=C[N+1]/S([NH1])([Si])Cl.[C@@H1][C@H1][C@]/C\\[NH1][O-1]",
+    "canonical_smiles": "[CH][CH][C]CN[O-].[NH]S([Si])(Cl)[N+]C=P[Se]"
+  },
+  {
+    "index": 461,
+    "raw_smiles": "Cl[C@H1][135I]",
+    "canonical_smiles": "Cl[CH][135I]"
+  },
+  {
+    "index": 462,
+    "raw_smiles": "[Se]=N[Cl-1][N-1][C@@H1]\\[NH1]/P[N+1]P[Si][C@][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 463,
+    "raw_smiles": "[C@@]\\F.[C@@][135I].[C-1]P[P@]=S#N",
+    "canonical_smiles": "[C-]PP=[SH]#N.[C]F.[C][135I]"
+  },
+  {
+    "index": 464,
+    "raw_smiles": "[C@H1]#N.N\\N/[C@@]#[N+1]/I.[11CH3][N+1][N+1]\\O/P[PH1]=[S+1]/S[Si]\\I.I[N+1]=PC#N",
+    "canonical_smiles": "C#N.N#CP=[N+]I.NNC#[N+]I.[11CH3][N+][N+]OP[PH]=[S+]S[Si]I"
+  },
+  {
+    "index": 465,
+    "raw_smiles": "N=O.I\\Cl.[C@]B[S-1]=[Cl-1]/[C@H1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 466,
+    "raw_smiles": "ClN(\\[C@@H1])O[K+1]=O.O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 467,
+    "raw_smiles": "Cl/N[P@@]\\N/S=C=[N-1].C[C@]=[N+1]I",
+    "canonical_smiles": "C[C]=[N+]I.[N-]=C=[SH]N[P]NCl"
+  },
+  {
+    "index": 468,
+    "raw_smiles": "N1\\OP[BH2-1][NH1][S+1][P@@]1/C[C@]F",
+    "canonical_smiles": "F[C]C[P@@]1NOP[BH2-]N[S+]1"
+  },
+  {
+    "index": 469,
+    "raw_smiles": "[11CH3]",
+    "canonical_smiles": "[11CH3]"
+  },
+  {
+    "index": 470,
+    "raw_smiles": "[S+1][BH2-1]C/[C@@H1][135I].[N+1]=O.[Cl-1][S+1]N=N/[C@H1][S@@+1][C@@]/OCl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 471,
+    "raw_smiles": "O(/C)P/[C@@H1][S+1]/I.O[Cl-1]([C@H1])[Na+1]=N[Cl+3]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 472,
+    "raw_smiles": "P\\S[Se][2H]",
+    "canonical_smiles": "[2H][Se]SP"
+  },
+  {
+    "index": 473,
+    "raw_smiles": "F.[C@@H1]=CS#N",
+    "canonical_smiles": "F.[CH]=CS#N"
+  },
+  {
+    "index": 474,
+    "raw_smiles": "[C@H1][Cl-1][Cl-1]#[K+1](B[P@+1])([C@@H1])B[S@@+1]\\C\\S[P@@][2H].FO[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 475,
+    "raw_smiles": "O[N-1]\\Cl.[P@][2H]",
+    "canonical_smiles": "O[N-]Cl.[2H][P]"
+  },
+  {
+    "index": 476,
+    "raw_smiles": "[K+1]=1=P.[C@@H1][C@@]\\[N+1]=[C@H1][O-1].S[C@@H1][B-1]/[C@@H1]/C[P@+1][I-1]/SPP\\S[N-1][N+1][O-1].F\\OSO/S[Se]=1([2H])\\[NH1]\\Br.[Se]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 477,
+    "raw_smiles": "[C@@][Br-1]/N/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 478,
+    "raw_smiles": "S[C@][B-1][P@@]=PI.S#P[C@@H1]Cl",
+    "canonical_smiles": "S[C][B-]P=PI.[SH]#[PH][CH]Cl"
+  },
+  {
+    "index": 479,
+    "raw_smiles": "[C@H1][Si][C@H1]I.S[Cl-1]\\[C@@H1]=P[2H].[S-1]\\I.[Cl-1]PBr",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 480,
+    "raw_smiles": "C/[C@@][Na+1]/S[Br-1]=[Se]\\Br.S[C@]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 481,
+    "raw_smiles": "[S-1][Br-1]\\[C@H1]\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 482,
+    "raw_smiles": "[BH2-1]/N=C[N-1]\\[C@H1][Si][C@@][Na+1]F.I/S=N[N+1][C@@]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 483,
+    "raw_smiles": "[N-1]/[N+1](\\I)N",
+    "canonical_smiles": "[N-][N+](N)I"
+  },
+  {
+    "index": 484,
+    "raw_smiles": "P[Cl-1]/C[N-1][S+1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 485,
+    "raw_smiles": "C#C[N-1][Br-1]P\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 486,
+    "raw_smiles": "[C@@][Br-1]=C=NS=[Se]([Na+1])\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 487,
+    "raw_smiles": "[Br-1]/P\\[C@@H1]/N\\NN=N[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 488,
+    "raw_smiles": "F[Cl+3][PH1]/N[C@H1][11CH3]",
+    "canonical_smiles": "[11CH3][CH]NP[Cl+3]F"
+  },
+  {
+    "index": 489,
+    "raw_smiles": "I\\C\\Cl",
+    "canonical_smiles": "ClCI"
+  },
+  {
+    "index": 490,
+    "raw_smiles": "O[BH2-1][11CH3].[O+1]#[C@]Cl",
+    "canonical_smiles": "[11CH3][BH2-]O.[O+]#CCl"
+  },
+  {
+    "index": 491,
+    "raw_smiles": "B\\[NH1][135I]",
+    "canonical_smiles": "BN[135I]"
+  },
+  {
+    "index": 492,
+    "raw_smiles": "[S-1]\\Br.[O+1]#C\\F.[C@@]=O",
+    "canonical_smiles": "[C]=O.[O+]#CF.[S-]Br"
+  },
+  {
+    "index": 493,
+    "raw_smiles": "[P@@]N[P@+1]#N.FCl",
+    "canonical_smiles": "FCl.N#[P+]N[P]"
+  },
+  {
+    "index": 494,
+    "raw_smiles": "S=12[Se]=C.[C@H1]([PH1])[K+1]=1/O2",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 495,
+    "raw_smiles": "[N-1]Cl.O[N+1]#[N+1][C@@]N=PN",
+    "canonical_smiles": "NP=N[C][N+]#[N+]O.[N-]Cl"
+  },
+  {
+    "index": 496,
+    "raw_smiles": "P[Se]=C\\I",
+    "canonical_smiles": "P[Se]=CI"
+  },
+  {
+    "index": 497,
+    "raw_smiles": "[Br-1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 498,
+    "raw_smiles": "[I-1].[PH1]I.N[BH2-1]\\N[Br-1][N-1][N+1]/[N+1]/[C@H1]/F.[N+1][P@+1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 499,
+    "raw_smiles": "Cl\\I.Br",
+    "canonical_smiles": "Br.ClI"
+  },
+  {
+    "index": 500,
+    "raw_smiles": "N/[N+1]/[N+1]\\Br.P/[C@@]\\S/[C@H1]\\I",
+    "canonical_smiles": "N[N+][N+]Br.P[C]S[CH]I"
+  },
+  {
+    "index": 501,
+    "raw_smiles": "B/I",
+    "canonical_smiles": "BI"
+  },
+  {
+    "index": 502,
+    "raw_smiles": "[P@]#[N+1].C/[C@H1].[Br-1]#[Na+1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 503,
+    "raw_smiles": "[135I]\\Br",
+    "canonical_smiles": "Br[135I]"
+  },
+  {
+    "index": 504,
+    "raw_smiles": "NP\\F.Cl/O[11CH3]",
+    "canonical_smiles": "NPF.[11CH3]OCl"
+  },
+  {
+    "index": 505,
+    "raw_smiles": "[S@@+1]/[C@H1]P/[C@@H1][Cl-1][S+1]/[C@@]/I.[NH1][C@@H1]Cl.[N-1][C@@][P@+1]([P@+1]\\Cl)\\[NH1]/[C@H1][I-1][Na+1]/[C@H1][P@+1](\\I)/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 506,
+    "raw_smiles": "P[C@H1]=[N-1]",
+    "canonical_smiles": "[N-]=CP"
+  },
+  {
+    "index": 507,
+    "raw_smiles": "B[Br-1][Se][O-1].[K+1]O[Si][C@]Br.[BH2-1]N\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 508,
+    "raw_smiles": "P/F",
+    "canonical_smiles": "FP"
+  },
+  {
+    "index": 509,
+    "raw_smiles": "[S@@+1][P@@][Se]=C/Cl.[C@@H1](=N)\\F",
+    "canonical_smiles": "N=CF.[S+][P][Se]=CCl"
+  },
+  {
+    "index": 510,
+    "raw_smiles": "[Li+1]=C/I.Cl/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 511,
+    "raw_smiles": "FN[N+1]",
+    "canonical_smiles": "[N+]NF"
+  },
+  {
+    "index": 512,
+    "raw_smiles": "N=[Br-1]P[S+1][C@@]=O.[Li+1]#C.[C@][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 513,
+    "raw_smiles": "[S+1][Br-1]=[Se][PH1][NH1][Se]\\[C@@H1]\\[C@@H1][Si][Na+1]\\S[I-1]1[C@]\\N/N\\1\\[NH1][O+1]/PC(/[C@@H1])\\[C@@H1][C@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 514,
+    "raw_smiles": "[P@@][C-1]=[Cl+3]I",
+    "canonical_smiles": "[P][C-]=[Cl+3]I"
+  },
+  {
+    "index": 515,
+    "raw_smiles": "S1\\OO/S[P@@]/N/1[S+1]=[N+1][Br-1](=N)P([S@@+1])[Se]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 516,
+    "raw_smiles": "O[BH2-1]C[P@]([Se])[P@]Cl.[BH2-1][C@]Br.[B-1]=N\\F",
+    "canonical_smiles": "O[BH2-]C[P@]([Se])[P]Cl.[B-]=NF.[BH2-][C]Br"
+  },
+  {
+    "index": 517,
+    "raw_smiles": "N[Li+1][N@@]=C[B-1][C@@H1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 518,
+    "raw_smiles": "C\\[C@@H1][P@][C@H1]/O\\O[C@@H1][C@@H1]P[P@]#[N+1]/F",
+    "canonical_smiles": "C[CH][P][CH]OO[CH][CH]P[P]#[N+]F"
+  },
+  {
+    "index": 519,
+    "raw_smiles": "S/[C@@H1]=C[C@H1][P@@][P@]B/[C@@H1]/[C@H1]=[N+1]/C/[C@@H1][Li+1][Br-1]\\[N+1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 520,
+    "raw_smiles": "S[P@@][Li+1]=C=[Se]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 521,
+    "raw_smiles": "[S+1]\\C[Br-1]#C\\NCl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 522,
+    "raw_smiles": "[N+1]/[C@@H1]C\\[C@H1][I-1][Se]/Br.OP[C@H1]Cl",
+    "canonical_smiles": "OP[CH]Cl.[N+][CH]C[CH][I-][Se]Br"
+  },
+  {
+    "index": 523,
+    "raw_smiles": "P([N+1])[Li+1][Li+1].C/F.C\\CCl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 524,
+    "raw_smiles": "Cl[Br-1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 525,
+    "raw_smiles": "Br[P@@]\\S/N[Cl-1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 526,
+    "raw_smiles": "P/NP[P@]\\N\\N[Se][C@H1]S[C@H1]=[N+1]Br",
+    "canonical_smiles": "PNP[P]NN[Se][CH]SC=[N+]Br"
+  },
+  {
+    "index": 527,
+    "raw_smiles": "[N-1]\\[C@@H1]/N=C\\Br",
+    "canonical_smiles": "[N-][CH]/N=C\\Br"
+  },
+  {
+    "index": 528,
+    "raw_smiles": "[C@]\\S/[C@@H1]=P/Br",
+    "canonical_smiles": "[C]S/C=P/Br"
+  },
+  {
+    "index": 529,
+    "raw_smiles": "[Cl-1]\\S[P@@]#[C@@H1].[NH1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 530,
+    "raw_smiles": "[C@H1][C@]\\O/C[S@@+1]\\Cl.[P@@]ON\\C",
+    "canonical_smiles": "CNO[P].[CH][C]OC[S+]Cl"
+  },
+  {
+    "index": 531,
+    "raw_smiles": "ClOP.[K+1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 532,
+    "raw_smiles": "Cl\\[C@@H1]\\[C@@H1]\\Cl.[C@@H1]B/Br.[C@@H1]/I.Cl",
+    "canonical_smiles": "Cl.Cl[CH][CH]Cl.[CH]BBr.[CH]I"
+  },
+  {
+    "index": 533,
+    "raw_smiles": "[P@]\\[NH1][P@][BH2-1]/OC=[N+1]\\I.[Br-1]([S@@+1])[NH1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 534,
+    "raw_smiles": "B[C@@H1]/I.P/[C@H1]\\F.[PH1][S@@+1]#N.[C@][N+1]=[P@+1][O+1]C#N",
+    "canonical_smiles": "B[CH]I.F[CH]P.N#[S+][PH].[C][N+]=[P+][O+]C#N"
+  },
+  {
+    "index": 535,
+    "raw_smiles": "Br[N+1]#N.I.[N+1][C@][B-1][Se]F.[C@]/N",
+    "canonical_smiles": "I.N#[N+]Br.[C]N.[N+][C][B-][Se]F"
+  },
+  {
+    "index": 536,
+    "raw_smiles": "F.[C@@H1]\\Cl",
+    "canonical_smiles": "F.[CH]Cl"
+  },
+  {
+    "index": 537,
+    "raw_smiles": "[C@][C-1]([C-1])O\\S/P/S/N[NH1][C@H1][Si]I",
+    "canonical_smiles": "[C][C-]([C-])OSPSNN[CH][Si]I"
+  },
+  {
+    "index": 538,
+    "raw_smiles": "Cl[C@@H1]/S",
+    "canonical_smiles": "S[CH]Cl"
+  },
+  {
+    "index": 539,
+    "raw_smiles": "N=N[N-1]",
+    "canonical_smiles": "[N-]N=N"
+  },
+  {
+    "index": 540,
+    "raw_smiles": "[11CH3]P[O-1].I\\[N+1][N@@]/N=O",
+    "canonical_smiles": "O=N[N][N+]I.[11CH3]P[O-]"
+  },
+  {
+    "index": 541,
+    "raw_smiles": "[C@][C@H1][BH2-1]Cl.[S@@+1][Cl+3][Cl-1]I.[C@@]=[Se][S+1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 542,
+    "raw_smiles": "F[P@@]N[S-1]/O\\S[N-1][Cl-1][Na+1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 543,
+    "raw_smiles": "[S-1]/[N+1][N-1]/[C@H1]=O",
+    "canonical_smiles": "O=C[N-][N+][S-]"
+  },
+  {
+    "index": 544,
+    "raw_smiles": "[C@]",
+    "canonical_smiles": "[C]"
+  },
+  {
+    "index": 545,
+    "raw_smiles": "[N-1]/[C@@H1][Cl-1][C@@]\\[N+1]\\OP=[Se]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 546,
+    "raw_smiles": "P[Se]\\[N+1]/Br",
+    "canonical_smiles": "P[Se][N+]Br"
+  },
+  {
+    "index": 547,
+    "raw_smiles": "N[BH2-1]/N[P@+1][C-1]N[Br-1][K+1][C@H1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 548,
+    "raw_smiles": "[P@]\\I",
+    "canonical_smiles": "[P]I"
+  },
+  {
+    "index": 549,
+    "raw_smiles": "CI",
+    "canonical_smiles": "CI"
+  },
+  {
+    "index": 550,
+    "raw_smiles": "[C@@]=[Se]B\\Br",
+    "canonical_smiles": "[C]=[Se]BBr"
+  },
+  {
+    "index": 551,
+    "raw_smiles": "[S@@+1][O+1]N[C@@][Br-1][Li+1]P=N[S+1][P@]\\F.N[I-1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 552,
+    "raw_smiles": "[O+1]\\[N+1]\\Cl.S=[Se][Li+1]=[S+1]\\O/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 553,
+    "raw_smiles": "[C@H1]\\S[Br-1][B-1]=N[Cl-1]N=S\\S\\[N+1][BH2-1]N[N+1]=N[B-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 554,
+    "raw_smiles": "S[Br-1].I[C@@]=O.[C@H1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 555,
+    "raw_smiles": "[N+1]#N.[C@@][Na+1][Li+1][PH1]#[N+1]\\N\\[N+1][PH1][S+1]=C=N[N+1]\\ON[Li+1]\\F.[C@H1]#C[C@H1][S@@+1][N-1][N-1]O[P@]/S/[C@@H1]=P\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 556,
+    "raw_smiles": "[Se][Cl+3]Br",
+    "canonical_smiles": "[Se][Cl+3]Br"
+  },
+  {
+    "index": 557,
+    "raw_smiles": "B/F",
+    "canonical_smiles": "BF"
+  },
+  {
+    "index": 558,
+    "raw_smiles": "N[P@]=N[C@@]/[C@@H1][C@@H1][C@]Br.[C@@]=S[P@@]I",
+    "canonical_smiles": "NP=N[C][CH][CH][C]Br.[C]=[SH][P]I"
+  },
+  {
+    "index": 559,
+    "raw_smiles": "[BH2-1]1\\O[C@@H1][S+1]=S/[C@@]/1[P@+1]N\\Cl.C=O.FC[B-1][2H]",
+    "canonical_smiles": "C=O.ClN[P+][C]1[BH2-]O[CH][S+]=[SH]1.[2H][B-]CF"
+  },
+  {
+    "index": 560,
+    "raw_smiles": "[S+1]/SBr.S[PH1]Cl.[P@@][S+1]C\\N[BH2-1][Br-1]/I.[S-1]B",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 561,
+    "raw_smiles": "Cl[P@@]Cl",
+    "canonical_smiles": "Cl[P]Cl"
+  },
+  {
+    "index": 562,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 563,
+    "raw_smiles": "[P@]/C/S[P@@][Cl-1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 564,
+    "raw_smiles": "Cl[BH2-1]\\[C@H1][135I]",
+    "canonical_smiles": "Cl[BH2-][CH][135I]"
+  },
+  {
+    "index": 565,
+    "raw_smiles": "[BH2-1][11CH3].Br[P@+1][11CH3].[B-1]\\[NH1]C[O+1]/Br.[N+1]=[N@@]Cl",
+    "canonical_smiles": "[11CH3][P+]Br.[B-]NC[O+]Br.[BH2-][11CH3].[N+]=NCl"
+  },
+  {
+    "index": 566,
+    "raw_smiles": "Cl\\CO[P@+1]#N",
+    "canonical_smiles": "N#[P+]OCCl"
+  },
+  {
+    "index": 567,
+    "raw_smiles": "Cl[Si][P@+1]#S=N[135I].[C@H1]=[N-1].[C@@H1][Se]/Cl.[O-1]\\S\\[C@H1][O-1]",
+    "canonical_smiles": "Cl[Si][P+]#[SH]=N[135I].[CH]=[N-].[CH][Se]Cl.[O-][CH]S[O-]"
+  },
+  {
+    "index": 568,
+    "raw_smiles": "I[Cl-1][P@][N@@]/[N+1]/P=[N+1][Na+1][C@@H1]=N\\[NH1][C@@H1]\\F.[N+1](P)[P@]/I.P[S@@+1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 569,
+    "raw_smiles": "[Na+1]1[N-1]C\\N\\[N+1]\\S/1[S-1][N-1][P@+1]=[S+1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 570,
+    "raw_smiles": "N[Si]=[S@@+1]=[Se]/I",
+    "canonical_smiles": "N[Si]=[S+]=[Se]I"
+  },
+  {
+    "index": 571,
+    "raw_smiles": "Cl[Se]\\O",
+    "canonical_smiles": "O[Se]Cl"
+  },
+  {
+    "index": 572,
+    "raw_smiles": "C[Si]\\[NH1][Cl-1]\\[C@H1][N-1]S/[C@@H1]B=P[Br-1][O+1][N+1][Na+1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 573,
+    "raw_smiles": "[Cl-1]\\F.O\\[N+1]F.N[Se]\\N[C@@H1]C[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 574,
+    "raw_smiles": "[O+1]\\[C@@H1](\\S)S[Cl-1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 575,
+    "raw_smiles": "S\\Br.N[Si][C@@][Br-1]/F.OSN[C@]I.[S+1]=[Na+1][I-1]/N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 576,
+    "raw_smiles": "I/O",
+    "canonical_smiles": "OI"
+  },
+  {
+    "index": 577,
+    "raw_smiles": "[S@@+1]/[C@@H1][Li+1]Cl.[NH1][P@+1][P@@]([C@]1)\\[C@H1]/1[C@]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 578,
+    "raw_smiles": "N[P@@][BH2-1][B-1]#C\\[C@H1][Br-1](/P)[C@H1]/Br.P=C=P[O+1]=[Se]\\N[N@@]\\[C@@H1](\\[C@H1])/[C@H1][I-1]\\CN[C@]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 579,
+    "raw_smiles": "C\\[C@H1][S+1]NP\\[N+1]/S\\F",
+    "canonical_smiles": "C[CH][S+]NP[N+]SF"
+  },
+  {
+    "index": 580,
+    "raw_smiles": "Cl/S.Br/[C@H1]F.B1.[N+1]1[Cl-1][K+1][N+1]([P@+1])[B-1]=N\\[C@@H1]Cl.[O-1]NP\\C(\\[N+1]2)[BH2-1]2",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 581,
+    "raw_smiles": "[C@H1]1S/OBr.[11CH3][C@][O+1]\\OPI.CO[N+1][Br-1]=CN[C-1][C@@H1]2[C@@]/1/OP[C@H1][I-1][N+1][S+1]\\2\\[N+1][C@@H1]=[N+1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 582,
+    "raw_smiles": "I",
+    "canonical_smiles": "I"
+  },
+  {
+    "index": 583,
+    "raw_smiles": "N=P[Br-1][C-1]=C/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 584,
+    "raw_smiles": "[11CH3]/N[PH1][P@][K+1][C@H1][N+1](=P)[Se][O+1]/[C@@H1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 585,
+    "raw_smiles": "O=[C-1]C(C)[PH1].[Cl-1][Si][NH1][C@@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 586,
+    "raw_smiles": "[N+1]P[135I].[Li+1]#[N+1][Na+1][11CH3].[C@H1][Cl-1]/C[Cl+3][C@]B",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 587,
+    "raw_smiles": "[C@@H1]=P/N[PH1]P=[Se][Na+1]\\C[B-1]NF",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 588,
+    "raw_smiles": "[N-1]\\[C@@H1]/S[O-1]",
+    "canonical_smiles": "[N-][CH]S[O-]"
+  },
+  {
+    "index": 589,
+    "raw_smiles": "Cl[2H]",
+    "canonical_smiles": "[2H]Cl"
+  },
+  {
+    "index": 590,
+    "raw_smiles": "[S@@+1]/S[Cl-1][C-1]([C@@])I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 591,
+    "raw_smiles": "[S-1][C@H1]\\[C@H1]/P[11CH3]",
+    "canonical_smiles": "[11CH3]P[CH][CH][S-]"
+  },
+  {
+    "index": 592,
+    "raw_smiles": "N\\S[S+1]=P[C@@H1]/I.I[Cl+3]/P=[Cl+3].P=O.[Cl-1]=S/S([P@])\\[C@H1]/[C@H1][C-1]/[C@@]/S.[P@@][B-1][S@@+1][S-1]=CN[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 593,
+    "raw_smiles": "[P@@][Br-1]([O+1])[Li+1]=P[S+1][C@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 594,
+    "raw_smiles": "C\\I",
+    "canonical_smiles": "CI"
+  },
+  {
+    "index": 595,
+    "raw_smiles": "[N+1]\\F",
+    "canonical_smiles": "[N+]F"
+  },
+  {
+    "index": 596,
+    "raw_smiles": "[C@H1][O+1]=[C@H1][I-1]=C=[Se][P@]Cl",
+    "canonical_smiles": "[CH][O+]=C[I-]=C=[Se][P]Cl"
+  },
+  {
+    "index": 597,
+    "raw_smiles": "O[Cl-1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 598,
+    "raw_smiles": "[C@@]/[C@@H1]=PN[P@][Cl+3][C@@H1]=[N+1]\\C[B-1]([BH2-1])[BH2-1]",
+    "canonical_smiles": "[BH2-][B-]([BH2-])C[N+]=C[Cl+3][P]NP=C[C]"
+  },
+  {
+    "index": 599,
+    "raw_smiles": "F[C-1]=O",
+    "canonical_smiles": "O=[C-]F"
+  },
+  {
+    "index": 600,
+    "raw_smiles": "N1[P@][S@@+1][N-1]1.[C@@]Br",
+    "canonical_smiles": "[C]Br.[N-]1N[P][S+]1"
+  },
+  {
+    "index": 601,
+    "raw_smiles": "[C@@]1=O.[S-1]\\[C@H1]=[S@@+1]/1P[N@@]=[N+1](P)CI",
+    "canonical_smiles": "O=[C]/[S+](=C\\[S-])PN=[N+](P)CI"
+  },
+  {
+    "index": 602,
+    "raw_smiles": "B(B)[Br-1]P[S+1]/P/C[C@]F.[N-1][C@][PH1][Se][C@][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 603,
+    "raw_smiles": "[Br-1]1(=[N+1])(\\[N+1]=O)/[C@H1]\\[N+1]\\[NH1][Cl+3]\\1#N.[S@@+1]=[S+1]\\F.[11CH3]/O[I-1](\\O)/[N+1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 604,
+    "raw_smiles": "N(/[C@H1])\\Cl.IP\\S[Li+1]#[N+1]\\[C@H1]\\O[Se]P=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 605,
+    "raw_smiles": "OB[Br-1]=N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 606,
+    "raw_smiles": "[C@H1]/[C@H1][S@@+1][11CH3]",
+    "canonical_smiles": "[CH][CH][S+][11CH3]"
+  },
+  {
+    "index": 607,
+    "raw_smiles": "[C@H1][N+1]/I.[PH1]",
+    "canonical_smiles": "[CH][N+]I.[PH]"
+  },
+  {
+    "index": 608,
+    "raw_smiles": "[Cl-1]\\[C@H1]/[C@H1](\\N)/C\\C\\[NH1][N-1]/[C@@H1]([O+1])[S-1]\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 609,
+    "raw_smiles": "C=[N-1].CS\\[NH1]N/F",
+    "canonical_smiles": "C=[N-].CSNNF"
+  },
+  {
+    "index": 610,
+    "raw_smiles": "Cl[Li+1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 611,
+    "raw_smiles": "[S+1][11CH3].[C@H1]\\F.OP/Cl.[Cl-1][K+1][Cl-1]/Br.[N+1]\\[C@H1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 612,
+    "raw_smiles": "C/S([N+1])/NBr.[Na+1]\\S",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 613,
+    "raw_smiles": "[C@H1]\\S[S-1]Br",
+    "canonical_smiles": "[CH]S[S-]Br"
+  },
+  {
+    "index": 614,
+    "raw_smiles": "[N-1].O[C@@][PH1]B[P@]/F",
+    "canonical_smiles": "O[C]PB[P]F.[N-]"
+  },
+  {
+    "index": 615,
+    "raw_smiles": "[C@H1]\\S\\F.[N-1][N+1]/[N+1]\\C[NH1][S+1][N-1]/C/C[BH2-1][C@@H1][Se][I-1]\\I",
+    "canonical_smiles": "[CH]SF.[N-][N+][N+]CN[S+][N-]CC[BH2-][CH][Se][I-]I"
+  },
+  {
+    "index": 616,
+    "raw_smiles": "[Br-1]O\\[N+1][135I].[PH1]=[Se][11CH3].[C@H1](/F)[C@][S-1]\\O/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 617,
+    "raw_smiles": "[O+1][P@@]=[N+1]/S=N\\[C@H1]\\O\\[N+1]/I.[N+1]N[Si][N@@]",
+    "canonical_smiles": "[N][Si]N[N+].[O+]P=[N+]/[SH]=N\\[CH]O[N+]I"
+  },
+  {
+    "index": 618,
+    "raw_smiles": "C/C\\[C@H1][O+1]N",
+    "canonical_smiles": "CC[CH][O+]N"
+  },
+  {
+    "index": 619,
+    "raw_smiles": "[B-1][Br-1]=[C-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 620,
+    "raw_smiles": "BS[Cl+3]([O-1])[BH2-1]/S[PH1]/O\\Cl",
+    "canonical_smiles": "BS[Cl+3]([O-])[BH2-]SPOCl"
+  },
+  {
+    "index": 621,
+    "raw_smiles": "[C@@H1]=[N-1]",
+    "canonical_smiles": "[CH]=[N-]"
+  },
+  {
+    "index": 622,
+    "raw_smiles": "P=[N+1]=O.[NH1]([I-1])[PH1][Br-1]\\S\\F.[C@@H1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 623,
+    "raw_smiles": "Cl/I",
+    "canonical_smiles": "ClI"
+  },
+  {
+    "index": 624,
+    "raw_smiles": "PBBr.[N-1]Cl",
+    "canonical_smiles": "PBBr.[N-]Cl"
+  },
+  {
+    "index": 625,
+    "raw_smiles": "S[P@]\\[C@H1][Li+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 626,
+    "raw_smiles": "[O+1][Br-1]#C/N([I-1])/N/[C@@][N+1]OF",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 627,
+    "raw_smiles": "Cl/F",
+    "canonical_smiles": "FCl"
+  },
+  {
+    "index": 628,
+    "raw_smiles": "S[Na+1]=[Se]=C=N.[O-1][N+1]B[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 629,
+    "raw_smiles": "S=1=N\\CO/S[C@@][Br-1][N+1]([Se]=1)N\\[C@H1]=N[O+1]/[C@@H1]=CO\\S\\F.Cl[C@]\\[NH1][N+1]([N@@])C\\[N+1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 630,
+    "raw_smiles": "FC[Cl+3](P)=P[C@@H1][K+1](\\Br)/[C@@H1]P[B-1][C@@H1]=[N+1][Se][P@@][Br-1].Cl/Br.[N+1][Si]=S=[O+1]\\N[B-1]=N.[C@@H1]/Br.[P@+1](/Br)[NH1]/CN[Cl-1][Cl+3]/[C@@H1]\\[NH1][O+1]=P",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 631,
+    "raw_smiles": "O=P[Br-1][Se][C@][Br-1]=O.C[C-1]P[Se]=P=[N+1][I-1]/C[C@@][C-1]=C[K+1]/OS[P@+1](/O)=O.[C@]/[C@H1]/Br.O/O[C@H1]=[N-1].[C@@H1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 632,
+    "raw_smiles": "C=[N-1]",
+    "canonical_smiles": "C=[N-]"
+  },
+  {
+    "index": 633,
+    "raw_smiles": "[C@@H1]=S=NCl.[Cl+3][B-1]/Br",
+    "canonical_smiles": "[CH]=S=NCl.[Cl+3][B-]Br"
+  },
+  {
+    "index": 634,
+    "raw_smiles": "S/F",
+    "canonical_smiles": "FS"
+  },
+  {
+    "index": 635,
+    "raw_smiles": "[N-1][Cl+3][Cl-1][S+1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 636,
+    "raw_smiles": "N[N+1][11CH3]",
+    "canonical_smiles": "[11CH3][N+]N"
+  },
+  {
+    "index": 637,
+    "raw_smiles": "C[I-1][Cl-1][C@@][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 638,
+    "raw_smiles": "[P@@][11CH3].C[Li+1]I.[C@@]/O[N+1]N[S+1]#N.S#N.N\\Cl.[Se][Se]=S/[C@H1]\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 639,
+    "raw_smiles": "Cl[Si]/S[P@]/S\\O\\ON[S+1][C@@]F.C\\Cl",
+    "canonical_smiles": "CCl.F[C][S+]NOOS[P]S[Si]Cl"
+  },
+  {
+    "index": 640,
+    "raw_smiles": "[S@@+1]=[C@H1][C@H1]",
+    "canonical_smiles": "[CH]C=[S+]"
+  },
+  {
+    "index": 641,
+    "raw_smiles": "[PH1]=1/S/[C@@H1]/P[K+1][P@@]\\SN[C@]/[C@H1]=[N+1][C@@H1]=1",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 642,
+    "raw_smiles": "N\\I",
+    "canonical_smiles": "NI"
+  },
+  {
+    "index": 643,
+    "raw_smiles": "[Br-1]=NS=N\\C/C[P@@]\\S[C@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 644,
+    "raw_smiles": "S[Cl+3][N-1][N+1]=O",
+    "canonical_smiles": "O=[N+][N-][Cl+3]S"
+  },
+  {
+    "index": 645,
+    "raw_smiles": "N[C@][N+1]B=O.S[2H].[C@@H1]\\[C@H1]/I",
+    "canonical_smiles": "N[C][N+]B=O.[2H]S.[CH][CH]I"
+  },
+  {
+    "index": 646,
+    "raw_smiles": "O/[C@@]#N.[S+1]\\[N+1]/I",
+    "canonical_smiles": "N#CO.[S+][N+]I"
+  },
+  {
+    "index": 647,
+    "raw_smiles": "[O+1]/Br.C=C\\Br",
+    "canonical_smiles": "C=CBr.[O+]Br"
+  },
+  {
+    "index": 648,
+    "raw_smiles": "[N+1]\\N.Cl\\S[O-1]",
+    "canonical_smiles": "[N+]N.[O-]SCl"
+  },
+  {
+    "index": 649,
+    "raw_smiles": "F[I-1][C@@][Cl+3]#N.OBr.[C@][C-1]/P/S[Li+1]/I.[Se]/SF",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 650,
+    "raw_smiles": "N[K+1]([135I])\\[N+1]=[N+1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 651,
+    "raw_smiles": "[Se]#SP(=P)[P@@]\\O[P@@]=[N-1]",
+    "canonical_smiles": "[N-]=PO[P][PH](=P)S#[Se]"
+  },
+  {
+    "index": 652,
+    "raw_smiles": "[C@@H1]P[C@@][S+1]N=N[C@@][C@H1]Br.[C@H1]F",
+    "canonical_smiles": "[CH]F.[CH]P[C][S+]N=N[C][CH]Br"
+  },
+  {
+    "index": 653,
+    "raw_smiles": "S(/S)\\I",
+    "canonical_smiles": "SSI"
+  },
+  {
+    "index": 654,
+    "raw_smiles": "FB/[C@@]=[Se][S@@+1][C@@][C@]=N1.[P@@]1/[C@@][C@@]\\S[P@+1]\\Cl",
+    "canonical_smiles": "FB[C]=[Se][S+][C][C]=N[P][C][C]S[P+]Cl"
+  },
+  {
+    "index": 655,
+    "raw_smiles": "[BH2-1]\\O\\I",
+    "canonical_smiles": "[BH2-]OI"
+  },
+  {
+    "index": 656,
+    "raw_smiles": "Cl\\C\\C/[C@@]B=N[C@][I-1]Cl.IP[2H]",
+    "canonical_smiles": "ClCC[C]B=N[C][I-]Cl.[2H]PI"
+  },
+  {
+    "index": 657,
+    "raw_smiles": "[135I]\\ON[11CH3]",
+    "canonical_smiles": "[11CH3]NO[135I]"
+  },
+  {
+    "index": 658,
+    "raw_smiles": "[N+1]\\S/O[C@H1][Li+1]/Br.P[C@@H1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 659,
+    "raw_smiles": "S[I-1]\\[C@H1][N-1]/[C@H1]O[N+1]C/PC=[S+1]/F",
+    "canonical_smiles": "F[S+]=CPC[N+]O[CH][N-][CH][I-]S"
+  },
+  {
+    "index": 660,
+    "raw_smiles": "[C@]([Br-1])[N-1]/N[PH1]\\[N+1]Br.O[Si](=S)\\[C@H1][I-1]/[C@@H1][Cl-1]\\S",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 661,
+    "raw_smiles": "[P@@]\\O\\I.[11CH3]/S[B-1]/P[O+1]\\[NH1][S+1][Cl-1][P@][C@H1]\\SBr.[Cl-1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 662,
+    "raw_smiles": "[P@@][Se]/C/OCC#[C@H1]",
+    "canonical_smiles": "C#CCOC[Se][P]"
+  },
+  {
+    "index": 663,
+    "raw_smiles": "[N+1][C@]/Cl.P[C@H1]=P/N[Si]\\[N+1](N)\\O[N+1]=C\\I.[N-1]/P=[Se]([C@@])/PBr",
+    "canonical_smiles": "N[N+](O[N+]=CI)[Si]NP=CP.[C]/[Se](=P\\[N-])PBr.[N+][C]Cl"
+  },
+  {
+    "index": 664,
+    "raw_smiles": "O=[P@]PP[Na+1].Br[N-1].[Br-1]#[N+1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 665,
+    "raw_smiles": "C(\\I)[135I]",
+    "canonical_smiles": "IC[135I]"
+  },
+  {
+    "index": 666,
+    "raw_smiles": "[C@@H1]Cl.F[Li+1]/I.[135I]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 667,
+    "raw_smiles": "F[N+1]/Cl.[S@@+1]/F",
+    "canonical_smiles": "F[N+]Cl.F[S+]"
+  },
+  {
+    "index": 668,
+    "raw_smiles": "[C@H1][N+1][C@@]=[P@@][C@@]\\Cl",
+    "canonical_smiles": "[CH][N+][C]=P[C]Cl"
+  },
+  {
+    "index": 669,
+    "raw_smiles": "[S-1]/N[N+1]=[Se][135I]",
+    "canonical_smiles": "[S-]N[N+]=[Se][135I]"
+  },
+  {
+    "index": 670,
+    "raw_smiles": "[C@H1]1/[C@H1]=C[Li+1]=[S+1]\\S=[C@][C@H1][P@@]\\N[Na+1]/[N+1][Li+1]=[N-1].O[P@][BH2-1]1.C\\Cl.[N+1][B-1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 671,
+    "raw_smiles": "N[PH1]\\Cl.[C@H1][P@+1]S/[C@@H1][Si]S\\F",
+    "canonical_smiles": "NPCl.[CH][P+]S[CH][Si]SF"
+  },
+  {
+    "index": 672,
+    "raw_smiles": "[P@@]S[PH1]/Br.C[B-1]=P[Br-1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 673,
+    "raw_smiles": "[N-1]/N\\[N+1](F)[Br-1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 674,
+    "raw_smiles": "FC=N[C@@]\\F",
+    "canonical_smiles": "F[C]N=CF"
+  },
+  {
+    "index": 675,
+    "raw_smiles": "[NH1]=[Br-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 676,
+    "raw_smiles": "[I-1][BH2-1]Br.[Cl+3]\\Br.[C@@][BH2-1]",
+    "canonical_smiles": "Br[BH2-][I-].[BH2-][C].[Cl+3]Br"
+  },
+  {
+    "index": 677,
+    "raw_smiles": "N=[N+1][Se]\\[NH1][N@@][C@H1][N-1]C",
+    "canonical_smiles": "C[N-][CH][N]N[Se][N+]=N"
+  },
+  {
+    "index": 678,
+    "raw_smiles": "[Cl-1][Li+1][N@@]=N[C@@H1]=C[C@@]\\[C@@H1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 679,
+    "raw_smiles": "[Cl-1]/P\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 680,
+    "raw_smiles": "[P@]P#[N+1][11CH3].[C@@H1][Cl-1][S+1]#[C@][Se][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 681,
+    "raw_smiles": "[C@H1]=O.[N+1].P=C[C@@]/Br.[C@H1][K+1][C@H1]1/[C@H1]=CF.[PH1]/1\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 682,
+    "raw_smiles": "S[Na+1]/S[C@H1]=N[C@H1][B-1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 683,
+    "raw_smiles": "[C@H1][Li+1].Cl[Se]#N.[N+1]=[N+1]\\I.[Br-1][C-1]N(/N)/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 684,
+    "raw_smiles": "S=[C@@]\\[N+1]O[N-1][P@@][Si][Li+1](S)(=P)[Cl-1][S+1]/P/S[2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 685,
+    "raw_smiles": "[N-1][Na+1]#[C@H1].[I-1]\\[C@@H1][C@][C@][N@@][S-1][S@@+1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 686,
+    "raw_smiles": "N1=S=[N+1]B/1/F",
+    "canonical_smiles": "FB1N=S=[N+]1"
+  },
+  {
+    "index": 687,
+    "raw_smiles": "N/[C@@H1][N+1]=NF.[Se]\\[NH1][N+1]/C\\F",
+    "canonical_smiles": "FC[N+]N[Se].N[CH][N+]=NF"
+  },
+  {
+    "index": 688,
+    "raw_smiles": "[C@@H1]C/P[N-1][I-1]/C/C(=O)/F",
+    "canonical_smiles": "[CH]CP[N-][I-]CC(=O)F"
+  },
+  {
+    "index": 689,
+    "raw_smiles": "N[N-1][N+1]N[P@]/Br",
+    "canonical_smiles": "N[N-][N+]N[P]Br"
+  },
+  {
+    "index": 690,
+    "raw_smiles": "F[N+1]\\[N+1][P@@]\\I.[N+1]#[P@@]N=[C@@H1]",
+    "canonical_smiles": "F[N+][N+][P]I.[CH]=N[P]#[N+]"
+  },
+  {
+    "index": 691,
+    "raw_smiles": "OP=[Se]\\F.[C@H1]S=S[S+1]P[C-1]/P[Br-1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 692,
+    "raw_smiles": "I[Br-1](\\F)[P@][2H].N1(O)Cl.[C@H1][C@H1]=P[Br-1](\\Br)/O/O/O[C@@][Br-1]\\1#[N+1]SBS\\[NH1]PC#[N+1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 693,
+    "raw_smiles": "[Cl-1]1[B-1]/S[2H].[NH1][O+1]1/O\\[C@H1]=[N+1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 694,
+    "raw_smiles": "CO\\Cl",
+    "canonical_smiles": "COCl"
+  },
+  {
+    "index": 695,
+    "raw_smiles": "Br/I.P[C@H1]P(=N)[Na+1](/[C@H1])\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 696,
+    "raw_smiles": "C[Cl-1][O-1].[C@@H1]/Br.[S+1]\\[C@@H1][P@]P\\[C@H1][Li+1][Li+1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 697,
+    "raw_smiles": "[C@@H1](/S)[P@]/I.[C@@H1](\\S)\\S/[C@H1][S-1]\\[C@H1]\\S/[C@H1]=[S+1]\\[C@@H1]=P#C[PH1]#[N+1]N(F)[BH2-1]/S/I.[Cl+3]=[S+1]F",
+    "canonical_smiles": "FN([BH2-]SI)[N+]#[PH]C#P=C/[S+]=C\\S[CH][S-][CH]S[CH]S.F[S+]=[Cl+3].S[CH][P]I"
+  },
+  {
+    "index": 698,
+    "raw_smiles": "[P@][S@@+1][BH2-1]\\[C@H1][S+1]N/O/P[Cl-1][S+1]O\\[C@H1]P[I-1]=C=[S+1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 699,
+    "raw_smiles": "C(Br)[11CH3]",
+    "canonical_smiles": "[11CH3]CBr"
+  },
+  {
+    "index": 700,
+    "raw_smiles": "S[S@@+1][Br-1]\\N/C/C[C@@]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 701,
+    "raw_smiles": "I/[N+1][Br-1]BI.[C@]/[C@@H1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 702,
+    "raw_smiles": "[C@H1][C@H1]=N[N+1]P/P=[Se][Li+1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 703,
+    "raw_smiles": "F[Cl-1]\\Cl.C=P[Se](/S)[C@][Se]#[N+1].S\\C#C",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 704,
+    "raw_smiles": "[C@]/S([N-1])[N-1]/C/[C@H1][C@H1][Cl+3][C@@H1]Cl",
+    "canonical_smiles": "[C][SH]([N-])[N-]C[CH][CH][Cl+3][CH]Cl"
+  },
+  {
+    "index": 705,
+    "raw_smiles": "[Cl-1]=[N+1][S-1]S\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 706,
+    "raw_smiles": "[K+1][C@][PH1][P@+1]#C[C@@H1]C[Se].O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 707,
+    "raw_smiles": "[Li+1][C@]\\[C@H1]=S=C\\S[C@@][P@]\\I.N/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 708,
+    "raw_smiles": "[O+1]#C[PH1]=CN/P[N@@]=[N+1][Cl-1][Si][Cl+3]/P[P@][S@@+1]=[S+1]=S(#[N+1])[Se][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 709,
+    "raw_smiles": "O\\N/[C@@H1]\\[C@@H1]F",
+    "canonical_smiles": "ON[CH][CH]F"
+  },
+  {
+    "index": 710,
+    "raw_smiles": "[C@@H1][P@+1]\\S\\Br",
+    "canonical_smiles": "[CH][P+]SBr"
+  },
+  {
+    "index": 711,
+    "raw_smiles": "S=P[Na+1]N[Si][C-1][C@@H1]I.P\\S[K+1]/[C@@H1][P@][C@][P@]I.F[135I].Br\\[NH1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 712,
+    "raw_smiles": "P/[C@@H1].BrF",
+    "canonical_smiles": "FBr.[CH]P"
+  },
+  {
+    "index": 713,
+    "raw_smiles": "[P@@]=PCl",
+    "canonical_smiles": "[P]=PCl"
+  },
+  {
+    "index": 714,
+    "raw_smiles": "[C@H1]/CBr.[B-1]\\N\\[N+1]/Cl.[NH1]=[S+1]/C/C\\I",
+    "canonical_smiles": "N=[S+]CCI.[B-]N[N+]Cl.[CH]CBr"
+  },
+  {
+    "index": 715,
+    "raw_smiles": "[K+1]=N/[C@@H1]1.I1.N[C@]/[C@H1]/[C@@][S@@+1][S@@+1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 716,
+    "raw_smiles": "[C@H1]/C[C@H1]/S[Br-1]\\[N+1]#S[N-1][BH2-1].Cl[N+1][2H].NP[135I].[BH2-1][C-1]([Cl-1])I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 717,
+    "raw_smiles": "[C@H1]1=C[N-1]N=P[S+1]/1=[Se][Cl-1]/[C@@H1]=[N-1].[C@@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 718,
+    "raw_smiles": "[C@][Cl+3]\\N\\[N+1]#N.[BH2-1]=N1.[O+1]1NC[11CH3]",
+    "canonical_smiles": "[BH2-]=N[O+]NC[11CH3].[C][Cl+3]N[N+]#N"
+  },
+  {
+    "index": 719,
+    "raw_smiles": "[C@][Se]=S[Li+1][Na+1]/I.Cl\\[C@H1]\\O[Cl-1]\\N\\S/O/P/[C@@H1]=N[C@@]/OSBr.[K+1]F.[B-1]/N=N[Si][S-1][Se]/[C@@H1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 720,
+    "raw_smiles": "S.Cl\\C[BH2-1]NN=[N+1][Br-1]P\\OB\\S\\F.C/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 721,
+    "raw_smiles": "[Br-1]\\S[I-1]/F.FO[Si]=P/Br.O\\[C@@H1]\\S[N-1][N+1]=[N+1]=C[Si][C-1]=S([PH1])[NH1][Se]\\I.PBN[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 722,
+    "raw_smiles": "Cl[11CH3]",
+    "canonical_smiles": "[11CH3]Cl"
+  },
+  {
+    "index": 723,
+    "raw_smiles": "S[S@@+1][Cl+3][C@H1][135I]",
+    "canonical_smiles": "S[S+][Cl+3][CH][135I]"
+  },
+  {
+    "index": 724,
+    "raw_smiles": "C=[Br-1]N/P=[S+1][S+1]N\\ON[O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 725,
+    "raw_smiles": "C\\[C@@H1]=[N+1]/SP[O-1].N[C@@]/Cl",
+    "canonical_smiles": "C/C=[N+]\\SP[O-].N[C]Cl"
+  },
+  {
+    "index": 726,
+    "raw_smiles": "N1P=S\\1=[S@@+1]/Br",
+    "canonical_smiles": "Br/[S+]=[SH]1=PN\\1"
+  },
+  {
+    "index": 727,
+    "raw_smiles": "O=[C@H1][N+1]O[Br-1]\\C#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 728,
+    "raw_smiles": "[C@@H1]PC[Br-1]=C[PH1][K+1][Na+1]=C[C@@]B[Br-1](/S/Cl)Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 729,
+    "raw_smiles": "O.[O+1]\\Cl",
+    "canonical_smiles": "O.[O+]Cl"
+  },
+  {
+    "index": 730,
+    "raw_smiles": "NN/[C@H1]\\S.[P@]B[N-1][Cl-1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 731,
+    "raw_smiles": "O.[B-1][P@]=[K+1]#N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 732,
+    "raw_smiles": "Br[11CH3].SC",
+    "canonical_smiles": "CS.[11CH3]Br"
+  },
+  {
+    "index": 733,
+    "raw_smiles": "[Br-1]1=[Se]#CN[C@@]\\1=[N+1][O+1]/C[C@@][Br-1]C(\\C)/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 734,
+    "raw_smiles": "[C@H1][Si]=O",
+    "canonical_smiles": "[CH][Si]=O"
+  },
+  {
+    "index": 735,
+    "raw_smiles": "S[C@@]\\Cl",
+    "canonical_smiles": "S[C]Cl"
+  },
+  {
+    "index": 736,
+    "raw_smiles": "C/Cl",
+    "canonical_smiles": "CCl"
+  },
+  {
+    "index": 737,
+    "raw_smiles": "P/C/N[O+1][Br-1]=N[N+1]P=C[Cl+3]Br.[Br-1]/[C@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 738,
+    "raw_smiles": "[C@H1]ON\\S[P@@](/[C@@H1])([P@@])[Cl-1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 739,
+    "raw_smiles": "C/[C@@H1]/[C@H1]NS\\Cl",
+    "canonical_smiles": "C[CH][CH]NSCl"
+  },
+  {
+    "index": 740,
+    "raw_smiles": "C[Si](N[S+1]\\F)[O+1]=C=N/[C@@H1]/Br.[K+1]#C\\O[I-1](/P)[135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 741,
+    "raw_smiles": "[11CH3][Na+1][S@@+1]/[C@@][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 742,
+    "raw_smiles": "S=N[Se]([C@@H1])/OOCl",
+    "canonical_smiles": "[CH][Se](N=S)OOCl"
+  },
+  {
+    "index": 743,
+    "raw_smiles": "Cl[2H]",
+    "canonical_smiles": "[2H]Cl"
+  },
+  {
+    "index": 744,
+    "raw_smiles": "O/[C@@H1]NBr.[C@][PH1]\\I",
+    "canonical_smiles": "O[CH]NBr.[C]PI"
+  },
+  {
+    "index": 745,
+    "raw_smiles": "[C@@H1]S\\Cl",
+    "canonical_smiles": "[CH]SCl"
+  },
+  {
+    "index": 746,
+    "raw_smiles": "[Se]P[135I].C/C[Se]/P[N+1](/Br)[Br-1]/[N+1][C@@]\\O[C@@H1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 747,
+    "raw_smiles": "[N+1]P/S[Br-1][11CH3].[C-1]/[C@@H1][I-1]S[C@]/[C@H1]/C\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 748,
+    "raw_smiles": "[135I][Se]/S/[C@@H1]\\[C@H1]/[C@H1]O[N+1][N+1]\\S[Cl-1]#[C@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 749,
+    "raw_smiles": "[S+1]=C\\S#[P@@]/I",
+    "canonical_smiles": "[S+]=CS#[P]I"
+  },
+  {
+    "index": 750,
+    "raw_smiles": "Br[S@@+1](\\[NH1])[Br-1]O\\N[Br-1]\\[NH1]/I.[Br-1]/N/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 751,
+    "raw_smiles": "C[C@@][Br-1]/SP[P@@][C@H1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 752,
+    "raw_smiles": "N\\[C@@H1]\\S[C@@H1]=P=[Se]/I",
+    "canonical_smiles": "N[CH]SC=[PH]=[Se]I"
+  },
+  {
+    "index": 753,
+    "raw_smiles": "C#N.N[N+1][135I]",
+    "canonical_smiles": "C#N.N[N+][135I]"
+  },
+  {
+    "index": 754,
+    "raw_smiles": "ClN\\[C@H1]\\Cl.[P@@]\\S[P@@]\\O[B-1]",
+    "canonical_smiles": "Cl[CH]NCl.[B-]O[P]S[P]"
+  },
+  {
+    "index": 755,
+    "raw_smiles": "S\\[C@@H1][Br-1][S-1][Cl+3][C@H1][C@]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 756,
+    "raw_smiles": "[C@@]1\\N[C@@][PH1]=C2[11CH3].[Se]/[C@H1][N+1]\\1[O-1].S[O+1]([N+1])/I.[N+1]B\\2F",
+    "canonical_smiles": "[11CH3]C(=[PH][C]N[C][N+]([O-])[CH][Se])B([N+])F.[N+][O+](S)I"
+  },
+  {
+    "index": 757,
+    "raw_smiles": "O[S+1]=S[O+1]([C-1])C\\S#COCC[11CH3].C[N-1]/C1[BH2-1]N[11CH3].[Br-1]=[Br-1]1=N[C@@H1]/N\\NO[N+1]=N[135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 758,
+    "raw_smiles": "[N-1][2H].[Se]P\\OC#N.Cl.[O+1]1[PH1]([N+1])[S+1]#[Br-1]/1.[C@@H1][Si][Se](=C)(F)[C@H1][I-1][Br-1]=[N+1]=[P@+1][Li+1]O[2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 759,
+    "raw_smiles": "[C@H1]\\Br",
+    "canonical_smiles": "[CH]Br"
+  },
+  {
+    "index": 760,
+    "raw_smiles": "C/I",
+    "canonical_smiles": "CI"
+  },
+  {
+    "index": 761,
+    "raw_smiles": "[Li+1]=PO/[C@H1]/[C@H1]O/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 762,
+    "raw_smiles": "S[S-1]Br",
+    "canonical_smiles": "S[S-]Br"
+  },
+  {
+    "index": 763,
+    "raw_smiles": "[C@H1][Se]NNCl",
+    "canonical_smiles": "[CH][Se]NNCl"
+  },
+  {
+    "index": 764,
+    "raw_smiles": "[Se]/[C@@]O[Cl-1][P@]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 765,
+    "raw_smiles": "[Si][S@@+1]\\N([B-1])Cl",
+    "canonical_smiles": "[B-]N(Cl)[S+][Si]"
+  },
+  {
+    "index": 766,
+    "raw_smiles": "S=[C@H1][B-1]/[C@@H1]=O",
+    "canonical_smiles": "O=C[B-]C=S"
+  },
+  {
+    "index": 767,
+    "raw_smiles": "N[P@][N+1]#[S-1]\\[C@H1][N+1]I.[PH1]/Cl",
+    "canonical_smiles": "N[P][N+]#[S-][CH][N+]I.[PH]Cl"
+  },
+  {
+    "index": 768,
+    "raw_smiles": "N.[Se]=P=P[C@]I.P[I-1][P@+1]=O.[Se]/I",
+    "canonical_smiles": "N.O=[P+][I-]P.[Se]=[PH]=P[C]I.[Se]I"
+  },
+  {
+    "index": 769,
+    "raw_smiles": "BrOC=C=[Se]",
+    "canonical_smiles": "[Se]=C=COBr"
+  },
+  {
+    "index": 770,
+    "raw_smiles": "N\\Br.Br/P=O.S/I",
+    "canonical_smiles": "NBr.O=PBr.SI"
+  },
+  {
+    "index": 771,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 772,
+    "raw_smiles": "[C@@]=O.[Cl+3]#N.[PH1][O-1]",
+    "canonical_smiles": "N#[Cl+3].[C]=O.[O-][PH]"
+  },
+  {
+    "index": 773,
+    "raw_smiles": "[BH2-1]=[P@@]",
+    "canonical_smiles": "[BH2-]=[P]"
+  },
+  {
+    "index": 774,
+    "raw_smiles": "C1\\S\\[N+1]I.C\\[C@@H1]=N\\C\\1[C@](C)\\Br",
+    "canonical_smiles": "C/C=N/C(CS[N+]I)[C](C)Br"
+  },
+  {
+    "index": 775,
+    "raw_smiles": "B\\C/F",
+    "canonical_smiles": "BCF"
+  },
+  {
+    "index": 776,
+    "raw_smiles": "F[Se][K+1]#CC[Cl-1].[P@@][135I].C([Se])[P@@]/F.[N+1]=[C-1]/OP[P@+1][C-1][N+1](I)\\O[K+1]/C[C@][B-1]=S/NP\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 777,
+    "raw_smiles": "[N-1]/[C@@]=[Se]=C/[C@H1][C@H1]C/I",
+    "canonical_smiles": "[N-][C]=[Se]=C[CH][CH]CI"
+  },
+  {
+    "index": 778,
+    "raw_smiles": "[O+1]123.[B-1]/1=[S+1]/2(/N)C/3[C@][Se]O[O-1]",
+    "canonical_smiles": "N[S+]12=[B-][O+]1C2[C][Se]O[O-]"
+  },
+  {
+    "index": 779,
+    "raw_smiles": "[C@@H1]1[Se][O+1][N+1]=C\\[N+1]/O/1.[S@@+1][Cl+3]=[N-1]",
+    "canonical_smiles": "[CH]1O[N+]C=[N+][O+][Se]1.[N-]=[Cl+3][S+]"
+  },
+  {
+    "index": 780,
+    "raw_smiles": "[Se]1P[P@]\\S[I-1]=N/P[Li+1].[P@+1]1[S+1][Cl+3]F.[O+1]=[Se][K+1][N-1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 781,
+    "raw_smiles": "C[135I].C/O/[C@H1][O+1]\\I.C[S+1]/Cl",
+    "canonical_smiles": "CO[CH][O+]I.C[135I].C[S+]Cl"
+  },
+  {
+    "index": 782,
+    "raw_smiles": "B1.S/1([P@][C@]=C\\[N+1][P@]\\F)=C=[PH1]([S+1]\\[C@@H1]=P[Cl+3](\\Br)[NH1][Se]\\C\\I)PF",
+    "canonical_smiles": "BS(=C=[PH](PF)[S+]C=P[Cl+3](Br)N[Se]CI)[P][C]=C[N+][P]F"
+  },
+  {
+    "index": 783,
+    "raw_smiles": "[2H]\\[NH1][P@]=S#[N+1]/[C@@H1][Li+1]=P#CC\\[NH1][Si].[C@@]/[C@H1][Cl+3][S@@+1][Cl+3][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 784,
+    "raw_smiles": "O1\\N=[Se]([Cl-1][Se]1#C[N@@]\\Br)(/F)[N+1]=O.[Cl-1]\\[C@@H1]/P[C@@]/N/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 785,
+    "raw_smiles": "[N-1].[Na+1]=O.[P@]/N/P[Se]=S\\Br.[Br-1][Na+1][N+1].I/F.[C@@H1][P@+1]S/[N+1]P[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 786,
+    "raw_smiles": "[I-1]\\OP(\\Cl)[N+1]\\S/[C@H1]\\Cl",
+    "canonical_smiles": "Cl[CH]S[N+]P(Cl)O[I-]"
+  },
+  {
+    "index": 787,
+    "raw_smiles": "[N-1]\\[NH1][C@@].P=S[Cl-1]=C=[Se]=[S+1]=[S+1]\\Br.[C@@]/N/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 788,
+    "raw_smiles": "[Li+1]\\C[P@+1]=[S+1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 789,
+    "raw_smiles": "N=NF.[C@@]=C.Cl[Na+1][B-1][C@]\\[C@H1]/O\\[C@@H1]\\[NH1][O-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 790,
+    "raw_smiles": "[S-1][Si]/[C@H1]/S\\C\\Cl",
+    "canonical_smiles": "[S-][Si][CH]SCCl"
+  },
+  {
+    "index": 791,
+    "raw_smiles": "[135I]",
+    "canonical_smiles": "[135I]"
+  },
+  {
+    "index": 792,
+    "raw_smiles": "[C@@H1][P@@]\\S/[C@H1][N@@]=NO[O+1]\\Br",
+    "canonical_smiles": "[CH][P]S[CH]N=NO[O+]Br"
+  },
+  {
+    "index": 793,
+    "raw_smiles": "[NH1]1\\N[N+1]/1/I",
+    "canonical_smiles": "I[N+]1NN1"
+  },
+  {
+    "index": 794,
+    "raw_smiles": "[O+1]B[PH1]=C[C@H1](/Br)N[C@]\\Cl",
+    "canonical_smiles": "[O+]B[PH]=C[C@H](Br)N[C]Cl"
+  },
+  {
+    "index": 795,
+    "raw_smiles": "[135I].P#N",
+    "canonical_smiles": "N#P.[135I]"
+  },
+  {
+    "index": 796,
+    "raw_smiles": "[C@@]=O",
+    "canonical_smiles": "[C]=O"
+  },
+  {
+    "index": 797,
+    "raw_smiles": "[C@@H1]#[N+1][Cl-1]#[N+1]\\Cl.[K+1][PH1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 798,
+    "raw_smiles": "[N-1]1[C@]([Se])N1",
+    "canonical_smiles": "[Se][C]1[N-]N1"
+  },
+  {
+    "index": 799,
+    "raw_smiles": "Cl/I.[NH1]=[S+1]I",
+    "canonical_smiles": "ClI.N=[S+]I"
+  },
+  {
+    "index": 800,
+    "raw_smiles": "C[Br-1](Cl)\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 801,
+    "raw_smiles": "[C@][C@@H1][Cl-1][P@+1](C=1)/[C@H1]=1",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 802,
+    "raw_smiles": "[Li+1]/I.Cl\\CC/C[Se]/[N+1][C@@]N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 803,
+    "raw_smiles": "C[I-1][Cl+3]/[C@H1][S+1]/F.[S+1][11CH3].I[C@@]\\Cl",
+    "canonical_smiles": "C[I-][Cl+3][CH][S+]F.Cl[C]I.[11CH3][S+]"
+  },
+  {
+    "index": 804,
+    "raw_smiles": "[135I][Cl-1]\\S=C[K+1]=N[B-1]=NI",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 805,
+    "raw_smiles": "O/S/N=C[Br-1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 806,
+    "raw_smiles": "SPC/[C@H1]/S#N.[C@@]\\[NH1]",
+    "canonical_smiles": "N#S[CH]CPS.[C][NH]"
+  },
+  {
+    "index": 807,
+    "raw_smiles": "S=1[C@H1]=N[BH2-1].[N+1]=1[P@][S+1]\\C=[S+1][S+1][N+1][PH1]\\O/F",
+    "canonical_smiles": "[BH2-]N=C[SH]=[N+][P][S+]C=[S+][S+][N+]POF"
+  },
+  {
+    "index": 808,
+    "raw_smiles": "FC[S@@+1]N=[N+1][11CH3]",
+    "canonical_smiles": "[11CH3][N+]=N[S+]CF"
+  },
+  {
+    "index": 809,
+    "raw_smiles": "[BH2-1][S@@+1][Se][C@]/S\\F",
+    "canonical_smiles": "[BH2-][S+][Se][C]SF"
+  },
+  {
+    "index": 810,
+    "raw_smiles": "Br[Br-1]=O.Br\\N/C[2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 811,
+    "raw_smiles": "[S@@+1]/F",
+    "canonical_smiles": "F[S+]"
+  },
+  {
+    "index": 812,
+    "raw_smiles": "[K+1]/C[Li+1]=C[Si]P\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 813,
+    "raw_smiles": "[Se]/S\\Br.Cl/[C@H1][Li+1][C@H1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 814,
+    "raw_smiles": "[Cl-1]=NC\\C[K+1][P@]\\S/Br.[O-1][N+1]=[N+1]C[Br-1].N[P@@][N+1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 815,
+    "raw_smiles": "Br[K+1][Cl-1][B-1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 816,
+    "raw_smiles": "N[N-1][Li+1][P@]\\[C@H1][Se]/[C@@H1]\\[NH1]N[C@@H1][Cl-1]#[Si]1=N[C@][PH1]/O[N+1]/Cl.[PH1]=C[Br-1]\\1=[N+1](I)\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 817,
+    "raw_smiles": "N=[Se]\\I",
+    "canonical_smiles": "N=[Se]I"
+  },
+  {
+    "index": 818,
+    "raw_smiles": "[C@@]\\O/PN/Br",
+    "canonical_smiles": "[C]OPNBr"
+  },
+  {
+    "index": 819,
+    "raw_smiles": "[N-1]/SN[C@]B",
+    "canonical_smiles": "B[C]NS[N-]"
+  },
+  {
+    "index": 820,
+    "raw_smiles": "[N+1]#[N+1]N=[N-1]",
+    "canonical_smiles": "[N+]#[N+]N=[N-]"
+  },
+  {
+    "index": 821,
+    "raw_smiles": "[Se]=[S+1]/P#N",
+    "canonical_smiles": "N#[PH][S+]=[Se]"
+  },
+  {
+    "index": 822,
+    "raw_smiles": "POP[PH1]\\Cl.S[S+1][C@@]#[N+1]/[N+1]=[Se][C@]P\\Br",
+    "canonical_smiles": "POPPCl.S[S+]C#[N+][N+]=[Se][C]PBr"
+  },
+  {
+    "index": 823,
+    "raw_smiles": "N1=N[C@H1]=N1",
+    "canonical_smiles": "C1=NN=N1"
+  },
+  {
+    "index": 824,
+    "raw_smiles": "[Cl-1]/C\\S[S@@+1](/[C@@])O[11CH3].[P@]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 825,
+    "raw_smiles": "I/[C@@H1]=C[N+1]=O.S\\F",
+    "canonical_smiles": "FS.O=[N+]C=CI"
+  },
+  {
+    "index": 826,
+    "raw_smiles": "[O+1]=[Se]\\Br",
+    "canonical_smiles": "[O+]=[Se]Br"
+  },
+  {
+    "index": 827,
+    "raw_smiles": "[P@@]/N[O-1].[P@@]\\O[Se](=N)(\\Br)[O+1]P=N[Si]\\CP([Si])[C@@]\\I.[C@@H1]=[B-1]",
+    "canonical_smiles": "N=[Se](Br)(O[P])[O+]P=N[Si]CP([Si])[C]I.[B-]=[CH].[O-]N[P]"
+  },
+  {
+    "index": 828,
+    "raw_smiles": "[N+1]=O",
+    "canonical_smiles": "[N+]=O"
+  },
+  {
+    "index": 829,
+    "raw_smiles": "Cl[N-1].[S-1]\\I.C[K+1]N[Cl+3]S(\\N=1)[S+1]=1/[C@@H1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 830,
+    "raw_smiles": "[P@]\\S\\F.[BH2-1]\\F",
+    "canonical_smiles": "FS[P].[BH2-]F"
+  },
+  {
+    "index": 831,
+    "raw_smiles": "O[Se]=[Se][P@@][O+1]=S\\N\\N[135I]",
+    "canonical_smiles": "O[Se]=[Se][P][O+]=[SH]NN[135I]"
+  },
+  {
+    "index": 832,
+    "raw_smiles": "[PH1]\\OB([P@@])[S+1][N-1]\\Br",
+    "canonical_smiles": "[P]B(O[PH])[S+][N-]Br"
+  },
+  {
+    "index": 833,
+    "raw_smiles": "[P@]Cl",
+    "canonical_smiles": "[P]Cl"
+  },
+  {
+    "index": 834,
+    "raw_smiles": "[Br-1][Cl+3]P[NH1]N/I.O[Br-1]=N[Li+1]=N/S/[C@@H1][N+1][K+1]/I.I/[C@@]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 835,
+    "raw_smiles": "F/S#P\\S[Si]=PBF",
+    "canonical_smiles": "FBP=[Si]S[PH]#SF"
+  },
+  {
+    "index": 836,
+    "raw_smiles": "[C@H1]/N\\Br.O=[N+1][S-1].[C@@]O[N@@][S@@+1][P@@]\\I",
+    "canonical_smiles": "O=[N+][S-].[CH]NBr.[C]O[N][S+][P]I"
+  },
+  {
+    "index": 837,
+    "raw_smiles": "Br[Li+1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 838,
+    "raw_smiles": "[Br-1][B-1]=PC/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 839,
+    "raw_smiles": "[S@@+1]/S/F",
+    "canonical_smiles": "FS[S+]"
+  },
+  {
+    "index": 840,
+    "raw_smiles": "[P@@]\\S[S-1](N)/N[Cl-1][Na+1]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 841,
+    "raw_smiles": "[Br-1][S@@+1][135I].[PH1]/P=B[N-1][2H].FC\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 842,
+    "raw_smiles": "C/C/SI",
+    "canonical_smiles": "CCSI"
+  },
+  {
+    "index": 843,
+    "raw_smiles": "O[Br-1][C@]/[C@H1]=[S+1][Br-1][S+1]\\S.[C@@H1]#CS.N\\N\\Cl.C[S@@+1]=C/Cl.[Na+1][Si]/O/C=N[C@][BH2-1]\\[C@@H1].[C@][Cl-1][Cl+3][C@@]/[C@H1]=[C@@H1][P@+1]/C\\[C@H1][N-1]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 844,
+    "raw_smiles": "[P@@]1\\ON[C-1]/1[135I].[B-1]=C/[N+1]\\[N+1][P@@][2H].[Cl+3][C@@]P[11CH3]",
+    "canonical_smiles": "[11CH3]P[C][Cl+3].[135I][C-]1NO[P]1.[2H][P][N+][N+]C=[B-]"
+  },
+  {
+    "index": 845,
+    "raw_smiles": "Cl/S\\O/OS[Se][I-1][P@+1]",
+    "canonical_smiles": "[P+][I-][Se]SOOSCl"
+  },
+  {
+    "index": 846,
+    "raw_smiles": "[C-1][S@@+1][P@+1][N+1]F.C#N",
+    "canonical_smiles": "C#N.[C-][S+][P+][N+]F"
+  },
+  {
+    "index": 847,
+    "raw_smiles": "S[I-1][N-1]/PN(/O)[N-1][C@][11CH3].[N+1][C@@]=N[B-1].[N+1][Li+1]/I.[C@@H1]Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 848,
+    "raw_smiles": "[C@H1]=1[Li+1][C@H1]\\N/Cl.[PH1]#C\\[N+1]=1\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 849,
+    "raw_smiles": "[11CH3]/[C@H1][P@]/NP[S+1]\\I",
+    "canonical_smiles": "[11CH3][CH][P]NP[S+]I"
+  },
+  {
+    "index": 850,
+    "raw_smiles": "Cl/[C@@H1]/[C@H1]NN\\F.[C@H1][N@@][P@@]/Br",
+    "canonical_smiles": "FNN[CH][CH]Cl.[CH][N][P]Br"
+  },
+  {
+    "index": 851,
+    "raw_smiles": "NN=[N+1]\\S/O[Cl+3]\\Cl",
+    "canonical_smiles": "NN=[N+]SO[Cl+3]Cl"
+  },
+  {
+    "index": 852,
+    "raw_smiles": "[PH1]\\Cl",
+    "canonical_smiles": "[PH]Cl"
+  },
+  {
+    "index": 853,
+    "raw_smiles": "[C@@]=[N+1][Li+1][P@+1]\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 854,
+    "raw_smiles": "NI.[Cl+3]/N\\I.C[B-1][Li+1][Br-1]=C=N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 855,
+    "raw_smiles": "[C@@]N=[N+1][B-1]\\N[N+1][11CH3]",
+    "canonical_smiles": "[C]N=[N+][B-]N[N+][11CH3]"
+  },
+  {
+    "index": 856,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 857,
+    "raw_smiles": "[C@][C@H1][P@@]\\O[B-1]=P(/C1)[N+1]/1=[Si]Cl",
+    "canonical_smiles": "[C][CH][P]O[B-]=[PH]1C[N+]1=[Si]Cl"
+  },
+  {
+    "index": 858,
+    "raw_smiles": "S\\C=N[N+1][C@H1]/F.N[I-1]Cl",
+    "canonical_smiles": "F[CH][N+]N=CS.N[I-]Cl"
+  },
+  {
+    "index": 859,
+    "raw_smiles": "[C@@H1]/F",
+    "canonical_smiles": "[CH]F"
+  },
+  {
+    "index": 860,
+    "raw_smiles": "[S-1]1OOOP=[N-1].[C@](/S)\\[N+1][C@@H1]/Br.O/1/I.Cl[P@+1][N+1][135I]",
+    "canonical_smiles": "Cl[P+][N+][135I].S[C][N+][CH]Br.[N-]=POOO[S-]OI"
+  },
+  {
+    "index": 861,
+    "raw_smiles": "[I-1][Cl-1][Na+1]/S\\[NH1][S@@+1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 862,
+    "raw_smiles": "O1/[C@H1][Na+1]1\\O[Li+1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 863,
+    "raw_smiles": "[C@@]=[N-1]",
+    "canonical_smiles": "[C]=[N-]"
+  },
+  {
+    "index": 864,
+    "raw_smiles": "[N-1][Si][PH1].P=N[Cl+3]/F.[P@@][P@][N+1][S+1]/[C@H1][B-1]",
+    "canonical_smiles": "F[Cl+3]N=P.[B-][CH][S+][N+][P][P].[N-][Si][PH]"
+  },
+  {
+    "index": 865,
+    "raw_smiles": "[O+1]/Br.P[C@@H1]B/I.Br[C@@H1][Na+1][11CH3].[S+1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 866,
+    "raw_smiles": "O/C.P=[N+1]=N/Br",
+    "canonical_smiles": "CO.P=[N+]=NBr"
+  },
+  {
+    "index": 867,
+    "raw_smiles": "ClN[C@@][C@][Br-1]#B.C(/S)(P)N\\[N+1]/S[PH1][BH2-1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 868,
+    "raw_smiles": "C=1=[S+1](B)[S+1]=N/OO[Na+1]=C[K+1]=1/[N+1]#[C@@H1].[NH1]\\[N+1]SF.NI",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 869,
+    "raw_smiles": "[C@@]=1F.[Cl-1]=1[P@+1][PH1]\\O\\O[Cl+3](/F)/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 870,
+    "raw_smiles": "[C@H1]/[C@@H1]\\O[Se][B-1][2H].P#C[S-1][Cl+3]/Br.[C@@H1]/P=S\\S=[S-1]Cl",
+    "canonical_smiles": "P#C[S-][Cl+3]Br.[2H][B-][Se]O[CH][CH].[CH]/P=[SH]\\[SH]=[S-]Cl"
+  },
+  {
+    "index": 871,
+    "raw_smiles": "S[P@][S@@+1]/S=O",
+    "canonical_smiles": "O=[SH][S+][P]S"
+  },
+  {
+    "index": 872,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 873,
+    "raw_smiles": "[Cl-1]\\[NH1][Br-1][I-1][N-1]Cl.[BH2-1]/S/C/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 874,
+    "raw_smiles": "F/N=C=N[Br-1]/I.O[S+1][C@]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 875,
+    "raw_smiles": "P=P=P[P@+1]=[S+1]Br",
+    "canonical_smiles": "P=[PH]=P[P+]=[S+]Br"
+  },
+  {
+    "index": 876,
+    "raw_smiles": "[Br-1]/I.[Cl-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 877,
+    "raw_smiles": "[N-1]=[Se]O[Li+1]=[C@][S@@+1].N/F.[N+1]/N[O+1]=[Se][C@@H1]/[C@H1][2H].SI.CF.P\\N[2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 878,
+    "raw_smiles": "[C@@][O+1][Se]=N[N+1][P@@][C@]/I.[P@+1]=[S+1]/[C@@H1].[B-1][S+1][P@+1](/[N+1])[11CH3]",
+    "canonical_smiles": "[B-][S+][P@@+]([11CH3])[N+].[CH][S+]=[P+].[C][O+][Se]=N[N+][P][C]I"
+  },
+  {
+    "index": 879,
+    "raw_smiles": "C[P@@]=[N-1].S[Se][P@]#[N+1][Se]N[11CH3].[N-1]=[N+1]",
+    "canonical_smiles": "CP=[N-].[11CH3]N[Se][N+]#[P][Se]S.[N+]=[N-]"
+  },
+  {
+    "index": 880,
+    "raw_smiles": "[C@@]\\Br",
+    "canonical_smiles": "[C]Br"
+  },
+  {
+    "index": 881,
+    "raw_smiles": "F[S-1]/N[NH1][N+1][Na+1][C@@H1]\\S[I-1]\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 882,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 883,
+    "raw_smiles": "C[Se]=N[Br-1]/P/N[C-1]/I.[Cl-1][S@@+1][NH1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 884,
+    "raw_smiles": "",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 885,
+    "raw_smiles": "Cl/C\\[C@H1].O.C[N+1]Cl",
+    "canonical_smiles": "C[N+]Cl.O.[CH]CCl"
+  },
+  {
+    "index": 886,
+    "raw_smiles": "Br[K+1]/N/C/Br.F.OI.[Cl+3]/[N+1]=[Si](\\[NH1])\\C[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 887,
+    "raw_smiles": "[Se]/Cl",
+    "canonical_smiles": "Cl[Se]"
+  },
+  {
+    "index": 888,
+    "raw_smiles": "[PH1][C@H1]=O",
+    "canonical_smiles": "O=C[PH]"
+  },
+  {
+    "index": 889,
+    "raw_smiles": "[O+1][PH1]\\S\\S\\Cl",
+    "canonical_smiles": "[O+]PSSCl"
+  },
+  {
+    "index": 890,
+    "raw_smiles": "N/[C@@][O-1].Br\\[NH1]",
+    "canonical_smiles": "N[C][O-].[NH]Br"
+  },
+  {
+    "index": 891,
+    "raw_smiles": "[N+1][C@H1]/I",
+    "canonical_smiles": "[N+][CH]I"
+  },
+  {
+    "index": 892,
+    "raw_smiles": "N[O+1]I",
+    "canonical_smiles": "N[O+]I"
+  },
+  {
+    "index": 893,
+    "raw_smiles": "O[Se]P[P@@][11CH3].[N+1][S+1]F.[C@H1][C@]/[C@@][PH1]/C[BH2-1]P/PF",
+    "canonical_smiles": "[11CH3][P]P[Se]O.[CH][C][C]PC[BH2-]PPF.[N+][S+]F"
+  },
+  {
+    "index": 894,
+    "raw_smiles": "[C@@]\\N[BH2-1]",
+    "canonical_smiles": "[BH2-]N[C]"
+  },
+  {
+    "index": 895,
+    "raw_smiles": "[Li+1][K+1]\\[N+1]B[Cl+3]\\Cl.C#[N+1][Na+1][Se]S[Se]=N[135I].S\\[C@H1]=[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 896,
+    "raw_smiles": "O[C@]=P[C@]#CCN/I",
+    "canonical_smiles": "O[C]=PC#CCNI"
+  },
+  {
+    "index": 897,
+    "raw_smiles": "[I-1][N+1].ON[Se]/Br.Br\\[C@@H1]\\N[Na+1][O+1]C[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 898,
+    "raw_smiles": "[PH1]/[C@H1].N=S\\Cl",
+    "canonical_smiles": "N=[SH]Cl.[CH][PH]"
+  },
+  {
+    "index": 899,
+    "raw_smiles": "SNP[11CH3].S[2H]",
+    "canonical_smiles": "[11CH3]PNS.[2H]S"
+  },
+  {
+    "index": 900,
+    "raw_smiles": "P\\I.[P@]\\I.C(F)C=[Se][B-1](/Br)[Li+1]=C[N+1]\\O[Se]#[Si]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 901,
+    "raw_smiles": "[Br-1]/F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 902,
+    "raw_smiles": "N[N-1]NI.OI",
+    "canonical_smiles": "N[N-]NI.OI"
+  },
+  {
+    "index": 903,
+    "raw_smiles": "[C@@H1]/I",
+    "canonical_smiles": "[CH]I"
+  },
+  {
+    "index": 904,
+    "raw_smiles": "[BH2-1]/N(\\S)\\Br",
+    "canonical_smiles": "[BH2-]N(S)Br"
+  },
+  {
+    "index": 905,
+    "raw_smiles": "[P@]/[C@@H1]=[N+1]=O.[P@@][N@@]/[N+1][P@+1](C)F",
+    "canonical_smiles": "C[P@+](F)[N+][N][P].O=[N+]=C[P]"
+  },
+  {
+    "index": 906,
+    "raw_smiles": "Cl[Cl-1]O[Se]=[Se][N+1]\\C(=[N+1])[C@]\\[N+1]/P[135I].S(\\[NH1]1)[135I].[Cl+3]#C/[C@H1][O+1]\\1\\F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 907,
+    "raw_smiles": "P[S-1][2H]",
+    "canonical_smiles": "[2H][S-]P"
+  },
+  {
+    "index": 908,
+    "raw_smiles": "P[2H].O\\Cl",
+    "canonical_smiles": "OCl.[2H]P"
+  },
+  {
+    "index": 909,
+    "raw_smiles": "O1\\ON\\Cl.O/[N+1]/1F",
+    "canonical_smiles": "O[N+](F)OONCl"
+  },
+  {
+    "index": 910,
+    "raw_smiles": "[Se][C@H1]F",
+    "canonical_smiles": "F[CH][Se]"
+  },
+  {
+    "index": 911,
+    "raw_smiles": "[11CH3]/I.Cl[P@]/O[N+1][Na+1][11CH3].NS=C.N/S(/Cl)/O[S+1]/F.Cl[Br-1](\\O)=N\\[N+1]=PB[C@@H1][Br-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 912,
+    "raw_smiles": "F[B-1]=P[C@@H1][135I].[S-1].[O+1]=O",
+    "canonical_smiles": "F[B-]=P[CH][135I].O=[O+].[S-]"
+  },
+  {
+    "index": 913,
+    "raw_smiles": "I[Br-1]PC\\[C@@H1]=N",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 914,
+    "raw_smiles": "[Se]=O",
+    "canonical_smiles": "O=[Se]"
+  },
+  {
+    "index": 915,
+    "raw_smiles": "[C@@H1]=[Se][Cl-1]=[Se]/P=[Se]CC/[C@H1]\\[C@H1]/Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 916,
+    "raw_smiles": "[C@@]=N[C@@]B\\O\\O/I.NF.[N+1]\\O\\I",
+    "canonical_smiles": "NF.[C]=N[C]BOOI.[N+]OI"
+  },
+  {
+    "index": 917,
+    "raw_smiles": "C\\[C@@H1]NOC=[S+1]=[N+1]\\C=[S+1][P@]\\I.[N+1]([C@H1])C/I",
+    "canonical_smiles": "C[CH]NOC=[S+]=[N+]C=[S+][P]I.[CH][N+]CI"
+  },
+  {
+    "index": 918,
+    "raw_smiles": "[C@H1]\\S[Br-1][N-1]PPCl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 919,
+    "raw_smiles": "Cl\\N.Br/I",
+    "canonical_smiles": "BrI.NCl"
+  },
+  {
+    "index": 920,
+    "raw_smiles": "N[N-1][BH2-1][Br-1]\\O[Li+1]\\[NH1]NCl.[S@@+1]=C\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 921,
+    "raw_smiles": "[C@]/C[Br-1]\\S[NH1][O+1][Br-1]\\I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 922,
+    "raw_smiles": "[P@][Li+1]Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 923,
+    "raw_smiles": "N/F.[BH2-1]/S=[N+1]Br.C/F",
+    "canonical_smiles": "CF.NF.[BH2-][SH]=[N+]Br"
+  },
+  {
+    "index": 924,
+    "raw_smiles": "[S@@+1]I.SI",
+    "canonical_smiles": "SI.[S+]I"
+  },
+  {
+    "index": 925,
+    "raw_smiles": "C/[C@@H1][O-1]",
+    "canonical_smiles": "C[CH][O-]"
+  },
+  {
+    "index": 926,
+    "raw_smiles": "C/F",
+    "canonical_smiles": "CF"
+  },
+  {
+    "index": 927,
+    "raw_smiles": "F/[C@H1]/I.[C@@].S=[C@@H1]C/F",
+    "canonical_smiles": "FCC=S.F[CH]I.[C]"
+  },
+  {
+    "index": 928,
+    "raw_smiles": "O[P@]\\[NH1][Se]\\F.[11CH3]/[C@@H1]\\[NH1]/F.C(\\[C@H1])[Br-1][C-1][Si]1.F\\1",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 929,
+    "raw_smiles": "[S-1]#N.C[N+1][N+1]\\Cl",
+    "canonical_smiles": "C[N+][N+]Cl.N#[S-]"
+  },
+  {
+    "index": 930,
+    "raw_smiles": "[S-1][S@@+1]/[C@@]=C\\C[Si][P@@]#C\\F",
+    "canonical_smiles": "FC#[P][Si]C/C=[C]\\[S+][S-]"
+  },
+  {
+    "index": 931,
+    "raw_smiles": "[P@@][135I].[B-1][S@@+1][C@H1]=N\\[NH1]N[S+1][C@@H1][P@@]/F.[N+1]\\[C@@H1]\\Cl.[C@@H1]\\[C@H1]/OF",
+    "canonical_smiles": "[B-][S+]C=NNN[S+][CH][P]F.[CH][CH]OF.[N+][CH]Cl.[P][135I]"
+  },
+  {
+    "index": 932,
+    "raw_smiles": "[PH1]/Cl.P/Cl",
+    "canonical_smiles": "PCl.[PH]Cl"
+  },
+  {
+    "index": 933,
+    "raw_smiles": "[P@@]/F.[Br-1]O\\[C@@H1]=[Se]/[N+1]=[Se][I-1]/[C@@H1]/N[N-1]O[P@@][2H].F[PH1]\\[NH1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 934,
+    "raw_smiles": "P/[N+1]([135I])\\I",
+    "canonical_smiles": "P[N+](I)[135I]"
+  },
+  {
+    "index": 935,
+    "raw_smiles": "P[S@@+1]=P=N[C@@H1]=[N+1]=S/Cl",
+    "canonical_smiles": "P[S+]=[PH]=NC=[N+]=[SH]Cl"
+  },
+  {
+    "index": 936,
+    "raw_smiles": "CP\\S#[N+1].[C@][C-1]\\S/I",
+    "canonical_smiles": "CPS#[N+].[C][C-]SI"
+  },
+  {
+    "index": 937,
+    "raw_smiles": "S\\S#[I-1][O-1].[Se][I-1][N+1][C@H1]=O",
+    "canonical_smiles": "O=C[N+][I-][Se].[O-][I-]#SS"
+  },
+  {
+    "index": 938,
+    "raw_smiles": "B=[S@@+1]\\Cl.O/S[C@]\\NN=N.C[S-1][S-1].[N+1]",
+    "canonical_smiles": "B=[S+]Cl.C[S-][S-].N=NN[C]SO.[N+]"
+  },
+  {
+    "index": 939,
+    "raw_smiles": "N\\N=B",
+    "canonical_smiles": "B=NN"
+  },
+  {
+    "index": 940,
+    "raw_smiles": "N=S[135I].S[P@@]\\O.[Se]/[C@H1]/[C@H1]/[C@H1]F.S\\C=[S@@+1][11CH3]",
+    "canonical_smiles": "F[CH][CH][CH][Se].N=[SH][135I].O[P]S.[11CH3][S+]=CS"
+  },
+  {
+    "index": 941,
+    "raw_smiles": "Cl",
+    "canonical_smiles": "Cl"
+  },
+  {
+    "index": 942,
+    "raw_smiles": "B1[P@]=P=N\\F.[Cl+3]1(S)[C@]",
+    "canonical_smiles": "[C][Cl+3](S)BP=[PH]=NF"
+  },
+  {
+    "index": 943,
+    "raw_smiles": "[BH2-1][P@@][BH2-1][Br-1]P\\Br",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 944,
+    "raw_smiles": "[C@H1]#N",
+    "canonical_smiles": "C#N"
+  },
+  {
+    "index": 945,
+    "raw_smiles": "CNO[Br-1]/[C@@H1][C@@H1]I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 946,
+    "raw_smiles": "[S+1][S-1][Br-1]([Li+1])=C=N/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 947,
+    "raw_smiles": "O.[Br-1]\\O/[C@H1]N=CSO\\[NH1]NC([C@@H1][Li+1])[C@H1]P1.N1[N-1]P[Li+1]I.[P@+1]=C[11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 948,
+    "raw_smiles": "[11CH3][N-1][Br-1]=NN/[C@H1]=C[O+1][Br-1]#[N+1]/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 949,
+    "raw_smiles": "BrC\\Br.[C@@H1]/[C@@H1][Si][N-1][C@@]\\[NH1]P\\N[N+1]=N/F",
+    "canonical_smiles": "BrCBr.[CH][CH][Si][N-][C]NPN[N+]=NF"
+  },
+  {
+    "index": 950,
+    "raw_smiles": "Cl[N+1]\\NPN[S@@+1]=[S+1]([P@+1])[C@]#C\\S[Cl+3][Cl-1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 951,
+    "raw_smiles": "[N+1]/N=[Se]([O+1])[N+1]/Br",
+    "canonical_smiles": "[N+]N=[Se]([O+])[N+]Br"
+  },
+  {
+    "index": 952,
+    "raw_smiles": "[S+1][2H]",
+    "canonical_smiles": "[2H][S+]"
+  },
+  {
+    "index": 953,
+    "raw_smiles": "[Li+1]\\S/[C@H1]\\S#N.[N-1]\\I.[N+1]\\[N+1]\\O/C[C@@H1].O=[N+1]/[N+1]\\[NH1][I-1]F",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 954,
+    "raw_smiles": "[135I].[Li+1][I-1]\\[C@@H1]/Br.O[PH1]/I",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 955,
+    "raw_smiles": "F/C[Se]=[P@]=PO[Se]#[N+1][S@@+1][C@@H1]\\Br.[2H]\\[C@H1]C/[N+1]",
+    "canonical_smiles": "FC[Se]=[P]=PO[Se]#[N+][S+][CH]Br.[2H][CH]C[N+]"
+  },
+  {
+    "index": 956,
+    "raw_smiles": "F",
+    "canonical_smiles": "F"
+  },
+  {
+    "index": 957,
+    "raw_smiles": "SPN([N+1]=[N-1])N/I.CP\\C/[N+1][S+1]=SF",
+    "canonical_smiles": "CPC[N+][S+]=[SH]F.[N-]=[N+]N(NI)PS"
+  },
+  {
+    "index": 958,
+    "raw_smiles": "[11CH3]S=N/P/[C@@H1][C@@H1]N[C@]([BH2-1]B/Br)[Se]I.N\\OF",
+    "canonical_smiles": "NOF.[11CH3][SH]=NP[CH][CH]N[C]([BH2-]BBr)[Se]I"
+  },
+  {
+    "index": 959,
+    "raw_smiles": "P[C@][N+1]P\\I",
+    "canonical_smiles": "P[C][N+]PI"
+  },
+  {
+    "index": 960,
+    "raw_smiles": "[O+1]/C=P[Na+1](O)\\Cl.[N-1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 961,
+    "raw_smiles": "P[Si][Se][Na+1][C@@]#C\\Cl.O/[C@@]=O",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 962,
+    "raw_smiles": "C(\\[C@H1])[PH1]P([Si])[C@][P@@](/[C@@H1])[C@][I-1]\\F",
+    "canonical_smiles": "[CH]CPP([Si])[C][P@@]([CH])[C][I-]F"
+  },
+  {
+    "index": 963,
+    "raw_smiles": "[Se]1=C/P/1[O-1]",
+    "canonical_smiles": "[O-]P1C=[Se]1"
+  },
+  {
+    "index": 964,
+    "raw_smiles": "N=[N+1][Li+1][Na+1][C-1][N-1]/O\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 965,
+    "raw_smiles": "[S@@+1]#[N+1].S[Se][C@H1]/PCl",
+    "canonical_smiles": "S[Se][CH]PCl.[N+]#[S+]"
+  },
+  {
+    "index": 966,
+    "raw_smiles": "C\\[NH1][O+1]B[O-1]",
+    "canonical_smiles": "CN[O+]B[O-]"
+  },
+  {
+    "index": 967,
+    "raw_smiles": "[O+1][O-1]",
+    "canonical_smiles": "[O+][O-]"
+  },
+  {
+    "index": 968,
+    "raw_smiles": "[O+1]",
+    "canonical_smiles": "[O+]"
+  },
+  {
+    "index": 969,
+    "raw_smiles": "[S-1][N-1][Se]\\S#[N+1][BH2-1]/O[S+1]\\[C@@H1]/O[C@@][Br-1]\\[N+1][Br-1]/N[N-1][Se][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 970,
+    "raw_smiles": "[P@]B[Cl+3][N+1]\\S[PH1]/N[C@@H1]CN[C-1]",
+    "canonical_smiles": "[C-]NC[CH]NPS[N+][Cl+3]B[P]"
+  },
+  {
+    "index": 971,
+    "raw_smiles": "[11CH3][Se]1=C/[C@H1][S+1]\\S=C[C@]\\1/O[PH1][11CH3].[K+1]P#[N+1]P[135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 972,
+    "raw_smiles": "[S@@+1][N-1]/S=[Se]F.C.S/C\\I",
+    "canonical_smiles": "C.F[Se]=[SH][N-][S+].SCI"
+  },
+  {
+    "index": 973,
+    "raw_smiles": "[C@@H1]/PBr",
+    "canonical_smiles": "[CH]PBr"
+  },
+  {
+    "index": 974,
+    "raw_smiles": "NF",
+    "canonical_smiles": "NF"
+  },
+  {
+    "index": 975,
+    "raw_smiles": "[C@@H1]Cl.C=[N+1]=[N+1]P\\S[S+1][N-1]C[Cl-1]N[N+1]\\NI",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 976,
+    "raw_smiles": "Br[N-1][N+1][C-1]I.C\\N[C@]=[N+1]=[N+1]\\S=CF",
+    "canonical_smiles": "Br[N-][N+][C-]I.CN[C]=[N+]=[N+][SH]=CF"
+  },
+  {
+    "index": 977,
+    "raw_smiles": "B[S@@+1]\\F.N/F.C#[N+1][P@](\\[C@H1])/O/[C@H1][I-1][BH2-1]N[Cl+3]\\C[K+1]O[O+1][P@@]\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 978,
+    "raw_smiles": "[C@@]12/N\\[C@@H1][C@H1][S@@+1]P/1/[C@H1](N)Cl.[11CH3][Se]N[K+1]#[N+1][BH2-1]2",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 979,
+    "raw_smiles": "[S-1]([Si])C/[C@H1]",
+    "canonical_smiles": "[CH]C[S-][Si]"
+  },
+  {
+    "index": 980,
+    "raw_smiles": "ClN[2H]",
+    "canonical_smiles": "[2H]NCl"
+  },
+  {
+    "index": 981,
+    "raw_smiles": "[N+1]\\O[11CH3]",
+    "canonical_smiles": "[11CH3]O[N+]"
+  },
+  {
+    "index": 982,
+    "raw_smiles": "N/[C@@H1][I-1]\\N[O-1].[Br-1][C@]/[C@@][I-1][C@][S+1][Br-1][K+1][N-1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 983,
+    "raw_smiles": "[C@H1][P@+1][S@@+1]/[C@@][C@@]/O[Br-1][Li+1]/I.[11CH3][O-1].[N+1]/P[I-1]\\[C@H1][N-1]/[C@H1]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 984,
+    "raw_smiles": "[Li+1](\\I)C\\[C@H1][N-1]/S",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 985,
+    "raw_smiles": "S1=[N-1].[C@@H1]/N[S-1]\\[C@H1]/1N\\N/C\\[N+1]/OS\\Cl",
+    "canonical_smiles": "[CH]N[S-][C@@H](NNC[N+]OSCl)[SH]=[N-]"
+  },
+  {
+    "index": 986,
+    "raw_smiles": "[BH2-1]/F.[P@@]/F.[Br-1][11CH3]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 987,
+    "raw_smiles": "S[P@]\\N.Cl/I.[S@@+1]Cl.F[O-1]",
+    "canonical_smiles": "ClI.N[P]S.[O-]F.[S+]Cl"
+  },
+  {
+    "index": 988,
+    "raw_smiles": "P/N=[N+1]\\NF",
+    "canonical_smiles": "FN/[N+]=N\\P"
+  },
+  {
+    "index": 989,
+    "raw_smiles": "NBr.[C@@]NN=[Se]/P[P@](\\[NH1][Cl-1][Cl-1]P/Cl)N\\F.[NH1]=[Se](\\Cl)/Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 990,
+    "raw_smiles": "[N-1]I.N/P/C[B-1][C@@]\\Cl.[C@@][S+1]\\I",
+    "canonical_smiles": "NPC[B-][C]Cl.[C][S+]I.[N-]I"
+  },
+  {
+    "index": 991,
+    "raw_smiles": "[Se]1=[N-1].[C@H1]N(\\[NH1])B[NH1]/S=P/O[C@]/1[I-1][I-1]=[C@@].[Cl-1][K+1][135I]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 992,
+    "raw_smiles": "[Br-1]=[Se][K+1][2H]",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 993,
+    "raw_smiles": "[11CH3]",
+    "canonical_smiles": "[11CH3]"
+  },
+  {
+    "index": 994,
+    "raw_smiles": "[C@@H1]\\[NH1]O[P@]/F.Br",
+    "canonical_smiles": "Br.[CH]NO[P]F"
+  },
+  {
+    "index": 995,
+    "raw_smiles": "S/C/Br",
+    "canonical_smiles": "SCBr"
+  },
+  {
+    "index": 996,
+    "raw_smiles": "[P@@][N+1][Br-1]\\C\\Cl",
+    "canonical_smiles": ""
+  },
+  {
+    "index": 997,
+    "raw_smiles": "[B-1]NO[B-1]#N.[N+1]P[C@@]=[O+1]/SBr",
+    "canonical_smiles": "[B-]NO[B-]#N.[N+]P[C]=[O+]SBr"
+  },
+  {
+    "index": 998,
+    "raw_smiles": "Br/F",
+    "canonical_smiles": "FBr"
+  },
+  {
+    "index": 999,
+    "raw_smiles": "[P@@]\\F.Cl[C@H1][P@]I",
+    "canonical_smiles": "Cl[CH][P]I.F[P]"
+  }
+]

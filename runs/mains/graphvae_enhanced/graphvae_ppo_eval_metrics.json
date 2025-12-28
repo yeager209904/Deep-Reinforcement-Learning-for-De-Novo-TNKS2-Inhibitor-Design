@@ -1,0 +1,13 @@
+{
+  "n_generated": 12800,
+  "n_valid": 12800,
+  "validity_fraction": 1.0,
+  "n_unique": 12800,
+  "uniqueness_fraction": 1.0,
+  "avg_qed": 0.36083712617565183,
+  "MolWt_mean": 496.06833281250033,
+  "LogP_mean": -1.825656601562499,
+  "TPSA_mean": 41.15330234375,
+  "scaffold_diversity_fraction": 1.0,
+  "mean_tanimoto_distance": 0.8070812011478918
+}

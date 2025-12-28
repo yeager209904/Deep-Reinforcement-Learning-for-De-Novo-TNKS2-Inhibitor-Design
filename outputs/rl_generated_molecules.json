@@ -1,0 +1,26 @@
+{
+  "n_generated": 5000,
+  "n_valid": 4999,
+  "validity_fraction": 0.9998,
+  "uniqueness_fraction": 0.0028005601120224045,
+  "novelty_fraction": NaN,
+  "avg_tanimoto_distance": 0.008398161557992556,
+  "scaffold_diversity_fraction": 0.000600120024004801,
+  "property_stats": {
+    "MolWt": {
+      "mean": 152.25233348662692,
+      "median": 152.094963004,
+      "std": 2.5051528277713486
+    },
+    "LogP": {
+      "mean": 1.2442122024404882,
+      "median": 1.2414999999999998,
+      "std": 0.04963930063129073
+    },
+    "TPSA": {
+      "mean": 33.328229645929184,
+      "median": 33.29,
+      "std": 1.0903824068793206
+    }
+  }
+}

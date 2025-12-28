@@ -1,0 +1,31 @@
+{
+  "n_total": 5000,
+  "n_valid": 0,
+  "validity_fraction": 0.0,
+  "n_unique_valid": 0,
+  "uniqueness_fraction": 0.0,
+  "top_common_examples": [],
+  "avg_tanimoto_distance": 0.0,
+  "scaffold_diversity_fraction": 0.0,
+  "property_stats": {
+    "MolWt": {
+      "mean": null,
+      "median": null,
+      "std": null
+    },
+    "LogP": {
+      "mean": null,
+      "median": null,
+      "std": null
+    },
+    "TPSA": {
+      "mean": null,
+      "median": null,
+      "std": null
+    }
+  },
+  "n_parse_errors": 5000,
+  "invalid_examples_file": "c:\\Users\\aneru\\OneDrive\\Desktop\\AMRITA\\SEM-7\\Reinforcement Learning\\Endsem\\REINVENT4-main\\tryingsmth\\outputs\\rl_invalid_examples.txt",
+  "duplicates_file": "c:\\Users\\aneru\\OneDrive\\Desktop\\AMRITA\\SEM-7\\Reinforcement Learning\\Endsem\\REINVENT4-main\\tryingsmth\\outputs\\rl_duplicates.csv",
+  "top_unique_smi": "c:\\Users\\aneru\\OneDrive\\Desktop\\AMRITA\\SEM-7\\Reinforcement Learning\\Endsem\\REINVENT4-main\\tryingsmth\\outputs\\rl_top_unique.smi"
+}
